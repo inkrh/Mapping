@@ -5,6 +5,168 @@
 	"link": "https://eonet.sci.gsfc.nasa.gov/api/v2.1/events",
 	"events": [
 		{
+			"id": "EONET_3372",
+			"title": "Fires - Southern California, United States",
+            "description": "",
+			"link": "http://eonet.sci.gsfc.nasa.gov/api/v2.1/events/EONET_3372",
+			"categories": [
+				{
+					"id": 8,
+					"title": "Wildfires"
+				}
+			],
+			"sources": [
+				{
+					"id": "PDC",
+					"url": "http://emops.pdc.org/emops/?hazard_id=76231"
+				}
+			
+			],
+			"geometries": [
+				{
+					"date": "2017-12-05T12:11:00Z",
+					"type": "Point", 
+					"coordinates": [ -119.057720586, 34.39334488 ]
+				}
+			
+			]
+		},
+		{
+			"id": "EONET_3373",
+			"title": "Rye Fire, California",
+            "description": "",
+			"link": "http://eonet.sci.gsfc.nasa.gov/api/v2.1/events/EONET_3373",
+			"categories": [
+				{
+					"id": 8,
+					"title": "Wildfires"
+				}
+			],
+			"sources": [
+				{
+					"id": "CALFIRE",
+					"url": "http://www.fire.ca.gov/current_incidents/incidentdetails/Index/1924"
+				}
+			
+			],
+			"geometries": [
+				{
+					"date": "2017-12-05T11:31:00Z",
+					"type": "Point", 
+					"coordinates": [ -118.58188, 34.45283 ]
+				}
+			
+			]
+		},
+		{
+			"id": "EONET_3374",
+			"title": "Creek Fire, California",
+            "description": "",
+			"link": "http://eonet.sci.gsfc.nasa.gov/api/v2.1/events/EONET_3374",
+			"categories": [
+				{
+					"id": 8,
+					"title": "Wildfires"
+				}
+			],
+			"sources": [
+				{
+					"id": "CALFIRE",
+					"url": "http://www.fire.ca.gov/current_incidents/incidentdetails/Index/1923"
+				}
+			
+			],
+			"geometries": [
+				{
+					"date": "2017-12-05T03:44:00Z",
+					"type": "Point", 
+					"coordinates": [ -118.35863, 34.31283 ]
+				}
+			
+			]
+		},
+		{
+			"id": "EONET_3375",
+			"title": "Creek Fire, CALIFORNIA",
+            "description": "",
+			"link": "http://eonet.sci.gsfc.nasa.gov/api/v2.1/events/EONET_3375",
+			"categories": [
+				{
+					"id": 8,
+					"title": "Wildfires"
+				}
+			],
+			"sources": [
+				{
+					"id": "InciWeb",
+					"url": "https://inciweb.nwcg.gov/incident/5669/"
+				}
+			
+			],
+			"geometries": [
+				{
+					"date": "2017-12-05T03:44:00Z",
+					"type": "Point", 
+					"coordinates": [ -118.33805555556, 34.334166666667 ]
+				}
+			
+			]
+		},
+		{
+			"id": "EONET_3376",
+			"title": "Thomas Fire, CALIFORNIA",
+            "description": "",
+			"link": "http://eonet.sci.gsfc.nasa.gov/api/v2.1/events/EONET_3376",
+			"categories": [
+				{
+					"id": 8,
+					"title": "Wildfires"
+				}
+			],
+			"sources": [
+				{
+					"id": "InciWeb",
+					"url": "https://inciweb.nwcg.gov/incident/5670/"
+				}
+			
+			],
+			"geometries": [
+				{
+					"date": "2017-12-04T18:30:00Z",
+					"type": "Point", 
+					"coordinates": [ -119.10027777778, 34.429166666667 ]
+				}
+			
+			]
+		},
+		{
+			"id": "EONET_3371",
+			"title": "Thomas Fire, California",
+            "description": "",
+			"link": "http://eonet.sci.gsfc.nasa.gov/api/v2.1/events/EONET_3371",
+			"categories": [
+				{
+					"id": 8,
+					"title": "Wildfires"
+				}
+			],
+			"sources": [
+				{
+					"id": "CALFIRE",
+					"url": "http://www.fire.ca.gov/current_incidents/incidentdetails/Index/1922"
+				}
+			
+			],
+			"geometries": [
+				{
+					"date": "2017-12-04T18:28:00Z",
+					"type": "Point", 
+					"coordinates": [ -119.09124, 34.41521 ]
+				}
+			
+			]
+		},
+		{
 			"id": "EONET_3370",
 			"title": "Albania Floods",
             "description": "",
@@ -99,13 +261,38 @@
 					"date": "2017-12-02T12:00:00Z",
 					"type": "Point", 
 					"coordinates": [ 112.00, -11.20 ]
+				},
+				{
+					"date": "2017-12-02T18:00:00Z",
+					"type": "Point", 
+					"coordinates": [ 112.40, -11.80 ]
+				},
+				{
+					"date": "2017-12-03T00:00:00Z",
+					"type": "Point", 
+					"coordinates": [ 112.40, -12.50 ]
+				},
+				{
+					"date": "2017-12-03T06:00:00Z",
+					"type": "Point", 
+					"coordinates": [ 112.40, -13.80 ]
+				},
+				{
+					"date": "2017-12-03T12:00:00Z",
+					"type": "Point", 
+					"coordinates": [ 112.40, -14.80 ]
+				},
+				{
+					"date": "2017-12-03T18:00:00Z",
+					"type": "Point", 
+					"coordinates": [ 112.00, -15.90 ]
 				}
 			
 			]
 		},
 		{
 			"id": "EONET_3366",
-			"title": "Cyclone Ockhi",
+			"title": "Tropical Storm Ockhi",
             "description": "",
 			"link": "http://eonet.sci.gsfc.nasa.gov/api/v2.1/events/EONET_3366",
 			"categories": [
@@ -180,6 +367,56 @@
 					"date": "2017-12-02T12:00:00Z",
 					"type": "Point", 
 					"coordinates": [ 70.40, 10.60 ]
+				},
+				{
+					"date": "2017-12-02T18:00:00Z",
+					"type": "Point", 
+					"coordinates": [ 69.80, 11.30 ]
+				},
+				{
+					"date": "2017-12-03T00:00:00Z",
+					"type": "Point", 
+					"coordinates": [ 69.30, 11.70 ]
+				},
+				{
+					"date": "2017-12-03T06:00:00Z",
+					"type": "Point", 
+					"coordinates": [ 68.80, 12.00 ]
+				},
+				{
+					"date": "2017-12-03T12:00:00Z",
+					"type": "Point", 
+					"coordinates": [ 68.70, 12.80 ]
+				},
+				{
+					"date": "2017-12-03T18:00:00Z",
+					"type": "Point", 
+					"coordinates": [ 68.60, 13.60 ]
+				},
+				{
+					"date": "2017-12-04T00:00:00Z",
+					"type": "Point", 
+					"coordinates": [ 68.70, 14.20 ]
+				},
+				{
+					"date": "2017-12-04T06:00:00Z",
+					"type": "Point", 
+					"coordinates": [ 68.70, 14.80 ]
+				},
+				{
+					"date": "2017-12-04T12:00:00Z",
+					"type": "Point", 
+					"coordinates": [ 68.90, 15.40 ]
+				},
+				{
+					"date": "2017-12-05T00:00:00Z",
+					"type": "Point", 
+					"coordinates": [ 70.40, 17.40 ]
+				},
+				{
+					"date": "2017-12-05T06:00:00Z",
+					"type": "Point", 
+					"coordinates": [ 70.60, 18.20 ]
 				}
 			
 			]
