@@ -37,151 +37,6 @@
 			]
 		},
 		{
-			"id": "EONET_3387",
-			"title": "Typhoon Tembin",
-            "description": "",
-			"link": "http://eonet.sci.gsfc.nasa.gov/api/v2.1/events/EONET_3387",
-			"categories": [
-				{
-					"id": 10,
-					"title": "Severe Storms"
-				}
-			],
-			"sources": [
-				{
-					"id": "GDACS",
-					"url": "http://www.gdacs.org/report.aspx?eventtype=TC&amp;eventid=1000426"
-				},
-				{
-					"id": "ReliefWeb",
-					"url": "https://reliefweb.int/disaster/tc-2017-000182-phl-0"
-				},
-				{
-					"id": "UNISYS",
-					"url": "http://weather.unisys.com/hurricane/w_pacific/2017/TEMBIN/track.dat"
-				}
-			
-			],
-			"geometries": [
-				{
-					"date": "2017-12-20T18:00:00Z",
-					"type": "Point", 
-					"coordinates": [ 131.00, 8.30 ]
-				},
-				{
-					"date": "2017-12-21T06:00:00Z",
-					"type": "Point", 
-					"coordinates": [ 128.40, 8.50 ]
-				},
-				{
-					"date": "2017-12-21T12:00:00Z",
-					"type": "Point", 
-					"coordinates": [ 127.60, 8.40 ]
-				},
-				{
-					"date": "2017-12-21T14:00:00Z",
-					"type": "Point", 
-					"coordinates": [ 129.50, 8.60 ]
-				},
-				{
-					"date": "2017-12-21T18:00:00Z",
-					"type": "Point", 
-					"coordinates": [ 126.70, 7.90 ]
-				},
-				{
-					"date": "2017-12-22T00:00:00Z",
-					"type": "Point", 
-					"coordinates": [ 125.60, 7.80 ]
-				},
-				{
-					"date": "2017-12-22T06:00:00Z",
-					"type": "Point", 
-					"coordinates": [ 123.60, 7.80 ]
-				},
-				{
-					"date": "2017-12-22T12:00:00Z",
-					"type": "Point", 
-					"coordinates": [ 122.10, 8.00 ]
-				},
-				{
-					"date": "2017-12-22T18:00:00Z",
-					"type": "Point", 
-					"coordinates": [ 121.40, 7.90 ]
-				},
-				{
-					"date": "2017-12-23T00:00:00Z",
-					"type": "Point", 
-					"coordinates": [ 120.40, 7.70 ]
-				},
-				{
-					"date": "2017-12-23T06:00:00Z",
-					"type": "Point", 
-					"coordinates": [ 119.30, 7.70 ]
-				},
-				{
-					"date": "2017-12-23T12:00:00Z",
-					"type": "Point", 
-					"coordinates": [ 117.40, 7.70 ]
-				},
-				{
-					"date": "2017-12-23T18:00:00Z",
-					"type": "Point", 
-					"coordinates": [ 115.80, 7.90 ]
-				},
-				{
-					"date": "2017-12-24T00:00:00Z",
-					"type": "Point", 
-					"coordinates": [ 114.30, 8.20 ]
-				},
-				{
-					"date": "2017-12-24T06:00:00Z",
-					"type": "Point", 
-					"coordinates": [ 113.20, 8.30 ]
-				},
-				{
-					"date": "2017-12-24T12:00:00Z",
-					"type": "Point", 
-					"coordinates": [ 111.80, 8.50 ]
-				},
-				{
-					"date": "2017-12-24T18:00:00Z",
-					"type": "Point", 
-					"coordinates": [ 110.20, 8.60 ]
-				},
-				{
-					"date": "2017-12-25T00:00:00Z",
-					"type": "Point", 
-					"coordinates": [ 109.90, 8.00 ]
-				},
-				{
-					"date": "2017-12-25T06:00:00Z",
-					"type": "Point", 
-					"coordinates": [ 108.90, 8.10 ]
-				},
-				{
-					"date": "2017-12-25T12:00:00Z",
-					"type": "Point", 
-					"coordinates": [ 107.50, 8.50 ]
-				},
-				{
-					"date": "2017-12-25T18:00:00Z",
-					"type": "Point", 
-					"coordinates": [ 106.10, 8.40 ]
-				},
-				{
-					"date": "2017-12-26T00:00:00Z",
-					"type": "Point", 
-					"coordinates": [ 104.90, 8.50 ]
-				},
-				{
-					"date": "2017-12-26T06:00:00Z",
-					"type": "Point", 
-					"coordinates": [ 104.40, 8.40 ]
-				}
-			
-			]
-		},
-		{
 			"id": "EONET_3392",
 			"title": "Wildfire - Villa Alemana, Chile",
             "description": "",
@@ -1502,6 +1357,11 @@
 					"date": "2017-10-27T00:00:00Z",
 					"type": "Point", 
 					"coordinates": [ -107.69, -73.66 ]
+				},
+				{
+					"date": "2017-12-29T00:00:00Z",
+					"type": "Point", 
+					"coordinates": [ -108.22, -73.18 ]
 				}
 			
 			]
@@ -1534,6 +1394,11 @@
 					"date": "2017-08-25T00:00:00Z",
 					"type": "Point", 
 					"coordinates": [ -107.26, -74.05 ]
+				},
+				{
+					"date": "2017-12-29T00:00:00Z",
+					"type": "Point", 
+					"coordinates": [ -108.35, -73.57 ]
 				}
 			
 			]
@@ -2244,6 +2109,11 @@
 					"date": "2017-12-01T00:00:00Z",
 					"type": "Point", 
 					"coordinates": [ -49.68, -59.29 ]
+				},
+				{
+					"date": "2017-12-29T00:00:00Z",
+					"type": "Point", 
+					"coordinates": [ -48.52, -59.22 ]
 				}
 			
 			]
@@ -2501,6 +2371,11 @@
 					"date": "2017-12-15T00:00:00Z",
 					"type": "Point", 
 					"coordinates": [ -91.58, -64.49 ]
+				},
+				{
+					"date": "2017-12-29T00:00:00Z",
+					"type": "Point", 
+					"coordinates": [ -92.09, -65.72 ]
 				}
 			
 			]
@@ -4455,6 +4330,11 @@
 					"date": "2017-11-17T00:00:00Z",
 					"type": "Point", 
 					"coordinates": [ -27.85, -54.99 ]
+				},
+				{
+					"date": "2017-12-29T00:00:00Z",
+					"type": "Point", 
+					"coordinates": [ -26.47, -54.92 ]
 				}
 			
 			]
@@ -4678,6 +4558,11 @@
 					"date": "2017-11-17T00:00:00Z",
 					"type": "Point", 
 					"coordinates": [ -20.88, -55.73 ]
+				},
+				{
+					"date": "2017-12-29T00:00:00Z",
+					"type": "Point", 
+					"coordinates": [ -20.62, -54.99 ]
 				}
 			
 			]
@@ -5359,6 +5244,11 @@
 					"date": "2017-12-08T00:00:00Z",
 					"type": "Point", 
 					"coordinates": [ -53.01, -61.75 ]
+				},
+				{
+					"date": "2017-12-29T00:00:00Z",
+					"type": "Point", 
+					"coordinates": [ -52.24, -61.26 ]
 				}
 			
 			]
@@ -6614,6 +6504,11 @@
 					"date": "2017-11-10T00:00:00Z",
 					"type": "Point", 
 					"coordinates": [ -49.37, -73.06 ]
+				},
+				{
+					"date": "2017-12-29T00:00:00Z",
+					"type": "Point", 
+					"coordinates": [ -51.22, -72.92 ]
 				}
 			
 			]
