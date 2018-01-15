@@ -47,6 +47,88 @@
 			]
 		},
 		{
+			"id": "EONET_3401",
+			"title": "Cyclone Berguitta",
+            "description": "",
+			"link": "http://eonet.sci.gsfc.nasa.gov/api/v2.1/events/EONET_3401",
+			"categories": [
+				{
+					"id": 10,
+					"title": "Severe Storms"
+				}
+			],
+			"sources": [
+				{
+					"id": "UNISYS",
+					"url": "http://weather.unisys.com/hurricane/s_indian/2018/BERGUITTA/track.dat"
+				}
+			
+			],
+			"geometries": [
+				{
+					"date": "2018-01-12T18:00:00Z",
+					"type": "Point", 
+					"coordinates": [ 66.90, -17.00 ]
+				},
+				{
+					"date": "2018-01-13T00:00:00Z",
+					"type": "Point", 
+					"coordinates": [ 65.60, -17.30 ]
+				},
+				{
+					"date": "2018-01-13T06:00:00Z",
+					"type": "Point", 
+					"coordinates": [ 64.90, -17.70 ]
+				},
+				{
+					"date": "2018-01-13T12:00:00Z",
+					"type": "Point", 
+					"coordinates": [ 64.00, -17.90 ]
+				},
+				{
+					"date": "2018-01-13T18:00:00Z",
+					"type": "Point", 
+					"coordinates": [ 63.60, -18.30 ]
+				},
+				{
+					"date": "2018-01-14T00:00:00Z",
+					"type": "Point", 
+					"coordinates": [ 63.40, -18.20 ]
+				},
+				{
+					"date": "2018-01-14T06:00:00Z",
+					"type": "Point", 
+					"coordinates": [ 63.00, -18.10 ]
+				},
+				{
+					"date": "2018-01-14T12:00:00Z",
+					"type": "Point", 
+					"coordinates": [ 62.90, -18.10 ]
+				},
+				{
+					"date": "2018-01-14T18:00:00Z",
+					"type": "Point", 
+					"coordinates": [ 63.10, -18.00 ]
+				},
+				{
+					"date": "2018-01-15T00:00:00Z",
+					"type": "Point", 
+					"coordinates": [ 63.20, -17.80 ]
+				},
+				{
+					"date": "2018-01-15T06:00:00Z",
+					"type": "Point", 
+					"coordinates": [ 63.20, -17.80 ]
+				},
+				{
+					"date": "2018-01-15T12:00:00Z",
+					"type": "Point", 
+					"coordinates": [ 63.00, -18.00 ]
+				}
+			
+			]
+		},
+		{
 			"id": "EONET_3399",
 			"title": "Tropical Storm Joyce",
             "description": "",
@@ -246,175 +328,6 @@
 					"date": "2018-01-10T18:00:00Z",
 					"type": "Point", 
 					"coordinates": [ 69.30, -33.40 ]
-				}
-			
-			]
-		},
-		{
-			"id": "EONET_3394",
-			"title": "Cyclone Ava",
-            "description": "",
-			"link": "http://eonet.sci.gsfc.nasa.gov/api/v2.1/events/EONET_3394",
-			"categories": [
-				{
-					"id": 10,
-					"title": "Severe Storms"
-				}
-			],
-			"sources": [
-				{
-					"id": "EO",
-					"url": "https://earthobservatory.nasa.gov/NaturalHazards/view.php?id=91540"
-				},
-				{
-					"id": "GDACS",
-					"url": "http://www.gdacs.org/report.aspx?eventtype=TC&amp;eventid=1000429"
-				},
-				{
-					"id": "ReliefWeb",
-					"url": "https://reliefweb.int/disaster/tc-2018-000001-mdg"
-				},
-				{
-					"id": "UNISYS",
-					"url": "http://weather.unisys.com/hurricane/s_indian/2018/AVA/track.dat"
-				}
-			
-			],
-			"geometries": [
-				{
-					"date": "2018-01-02T18:00:00Z",
-					"type": "Point", 
-					"coordinates": [ 53.30, -15.40 ]
-				},
-				{
-					"date": "2018-01-03T00:00:00Z",
-					"type": "Point", 
-					"coordinates": [ 52.60, -15.20 ]
-				},
-				{
-					"date": "2018-01-03T06:00:00Z",
-					"type": "Point", 
-					"coordinates": [ 52.90, -15.40 ]
-				},
-				{
-					"date": "2018-01-03T12:00:00Z",
-					"type": "Point", 
-					"coordinates": [ 53.10, -16.00 ]
-				},
-				{
-					"date": "2018-01-03T18:00:00Z",
-					"type": "Point", 
-					"coordinates": [ 53.20, -16.60 ]
-				},
-				{
-					"date": "2018-01-04T00:00:00Z",
-					"type": "Point", 
-					"coordinates": [ 52.50, -17.30 ]
-				},
-				{
-					"date": "2018-01-04T06:00:00Z",
-					"type": "Point", 
-					"coordinates": [ 52.10, -17.80 ]
-				},
-				{
-					"date": "2018-01-04T12:00:00Z",
-					"type": "Point", 
-					"coordinates": [ 51.40, -17.40 ]
-				},
-				{
-					"date": "2018-01-04T18:00:00Z",
-					"type": "Point", 
-					"coordinates": [ 51.00, -17.30 ]
-				},
-				{
-					"date": "2018-01-05T00:00:00Z",
-					"type": "Point", 
-					"coordinates": [ 50.50, -17.20 ]
-				},
-				{
-					"date": "2018-01-05T06:00:00Z",
-					"type": "Point", 
-					"coordinates": [ 50.00, -17.90 ]
-				},
-				{
-					"date": "2018-01-05T12:00:00Z",
-					"type": "Point", 
-					"coordinates": [ 49.40, -18.20 ]
-				},
-				{
-					"date": "2018-01-05T18:00:00Z",
-					"type": "Point", 
-					"coordinates": [ 49.00, -18.60 ]
-				},
-				{
-					"date": "2018-01-06T00:00:00Z",
-					"type": "Point", 
-					"coordinates": [ 48.30, -19.10 ]
-				},
-				{
-					"date": "2018-01-06T06:00:00Z",
-					"type": "Point", 
-					"coordinates": [ 47.50, -20.00 ]
-				},
-				{
-					"date": "2018-01-06T12:00:00Z",
-					"type": "Point", 
-					"coordinates": [ 47.00, -20.80 ]
-				},
-				{
-					"date": "2018-01-06T18:00:00Z",
-					"type": "Point", 
-					"coordinates": [ 48.10, -21.20 ]
-				},
-				{
-					"date": "2018-01-07T00:00:00Z",
-					"type": "Point", 
-					"coordinates": [ 48.50, -22.40 ]
-				},
-				{
-					"date": "2018-01-07T06:00:00Z",
-					"type": "Point", 
-					"coordinates": [ 49.00, -22.70 ]
-				},
-				{
-					"date": "2018-01-07T12:00:00Z",
-					"type": "Point", 
-					"coordinates": [ 49.20, -23.40 ]
-				},
-				{
-					"date": "2018-01-07T18:00:00Z",
-					"type": "Point", 
-					"coordinates": [ 49.20, -24.00 ]
-				},
-				{
-					"date": "2018-01-08T00:00:00Z",
-					"type": "Point", 
-					"coordinates": [ 49.00, -24.70 ]
-				},
-				{
-					"date": "2018-01-08T06:00:00Z",
-					"type": "Point", 
-					"coordinates": [ 49.10, -25.40 ]
-				},
-				{
-					"date": "2018-01-08T12:00:00Z",
-					"type": "Point", 
-					"coordinates": [ 48.30, -26.80 ]
-				},
-				{
-					"date": "2018-01-08T18:00:00Z",
-					"type": "Point", 
-					"coordinates": [ 46.80, -27.30 ]
-				},
-				{
-					"date": "2018-01-09T00:00:00Z",
-					"type": "Point", 
-					"coordinates": [ 47.20, -27.00 ]
-				},
-				{
-					"date": "2018-01-09T06:00:00Z",
-					"type": "Point", 
-					"coordinates": [ 47.40, -28.20 ]
 				}
 			
 			]
