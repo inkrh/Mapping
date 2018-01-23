@@ -5,43 +5,113 @@
 	"link": "https://eonet.sci.gsfc.nasa.gov/api/v2.1/events",
 	"events": [
 		{
-			"id": "EONET_3400",
-			"title": "Tropical Storm Briguitta",
+			"id": "EONET_3407",
+			"title": "Kusatsu-Shiranesan Volcano, Japan",
             "description": "",
-			"link": "http://eonet.sci.gsfc.nasa.gov/api/v2.1/events/EONET_3400",
+			"link": "http://eonet.sci.gsfc.nasa.gov/api/v2.1/events/EONET_3407",
 			"categories": [
 				{
-					"id": 10,
-					"title": "Severe Storms"
+					"id": 12,
+					"title": "Volcanoes"
 				}
 			],
 			"sources": [
 				{
-					"id": "UNISYS",
-					"url": "http://weather.unisys.com/hurricane/s_indian/2018/BRIGUITTA/track.dat"
+					"id": "SIVolcano",
+					"url": "https://volcano.si.edu/volcano.cfm?vn=283120"
 				}
 			
 			],
 			"geometries": [
 				{
-					"date": "2018-01-12T18:00:00Z",
+					"date": "2018-01-22T00:00:00Z",
 					"type": "Point", 
-					"coordinates": [ 66.90, -17.00 ]
+					"coordinates": [ 138.528, 36.618 ]
+				}
+			
+			]
+		},
+		{
+			"id": "EONET_3404",
+			"title": "Mayon Volcano, Philippines",
+            "description": "",
+			"link": "http://eonet.sci.gsfc.nasa.gov/api/v2.1/events/EONET_3404",
+			"categories": [
+				{
+					"id": 12,
+					"title": "Volcanoes"
+				}
+			],
+			"sources": [
+				{
+					"id": "IDC",
+					"url": "https://disasterscharter.org/web/guest/-/volcano-in-philippines-activation-562-"
 				},
 				{
-					"date": "2018-01-13T00:00:00Z",
-					"type": "Point", 
-					"coordinates": [ 65.60, -17.30 ]
-				},
+					"id": "SIVolcano",
+					"url": "http://volcano.si.edu/volcano.cfm?vn=273030"
+				}
+			
+			],
+			"geometries": [
 				{
-					"date": "2018-01-13T06:00:00Z",
+					"date": "2018-01-15T00:00:00Z",
 					"type": "Point", 
-					"coordinates": [ 64.90, -17.70 ]
-				},
+					"coordinates": [ 123.685, 13.257 ]
+				}
+			
+			]
+		},
+		{
+			"id": "EONET_3406",
+			"title": "Suwanosejima Volcano, Japan",
+            "description": "",
+			"link": "http://eonet.sci.gsfc.nasa.gov/api/v2.1/events/EONET_3406",
+			"categories": [
 				{
-					"date": "2018-01-13T12:00:00Z",
+					"id": 12,
+					"title": "Volcanoes"
+				}
+			],
+			"sources": [
+				{
+					"id": "SIVolcano",
+					"url": "http://volcano.si.edu/volcano.cfm?vn=282030"
+				}
+			
+			],
+			"geometries": [
+				{
+					"date": "2018-01-15T00:00:00Z",
 					"type": "Point", 
-					"coordinates": [ 64.00, -17.90 ]
+					"coordinates": [ 129.714, 29.638 ]
+				}
+			
+			]
+		},
+		{
+			"id": "EONET_3405",
+			"title": "San Miguel Volcano, El Salvador",
+            "description": "",
+			"link": "http://eonet.sci.gsfc.nasa.gov/api/v2.1/events/EONET_3405",
+			"categories": [
+				{
+					"id": 12,
+					"title": "Volcanoes"
+				}
+			],
+			"sources": [
+				{
+					"id": "SIVolcano",
+					"url": "http://volcano.si.edu/volcano.cfm?vn=343100"
+				}
+			
+			],
+			"geometries": [
+				{
+					"date": "2018-01-14T00:00:00Z",
+					"type": "Point", 
+					"coordinates": [ -88.269, 13.434 ]
 				}
 			
 			]
@@ -58,6 +128,18 @@
 				}
 			],
 			"sources": [
+				{
+					"id": "EO",
+					"url": "https://earthobservatory.nasa.gov/NaturalHazards/view.php?id=91600"
+				},
+				{
+					"id": "GDACS",
+					"url": "http://www.gdacs.org/report.aspx?eventtype=TC&amp;eventid=1000432"
+				},
+				{
+					"id": "ReliefWeb",
+					"url": "https://reliefweb.int/disaster/tc-2018-000007-mus"
+				},
 				{
 					"id": "UNISYS",
 					"url": "http://weather.unisys.com/hurricane/s_indian/2018/BERGUITTA/track.dat"
@@ -124,210 +206,159 @@
 					"date": "2018-01-15T12:00:00Z",
 					"type": "Point", 
 					"coordinates": [ 63.00, -18.00 ]
+				},
+				{
+					"date": "2018-01-15T18:00:00Z",
+					"type": "Point", 
+					"coordinates": [ 62.60, -18.10 ]
+				},
+				{
+					"date": "2018-01-16T00:00:00Z",
+					"type": "Point", 
+					"coordinates": [ 61.90, -18.20 ]
+				},
+				{
+					"date": "2018-01-16T06:00:00Z",
+					"type": "Point", 
+					"coordinates": [ 61.60, -18.00 ]
+				},
+				{
+					"date": "2018-01-16T12:00:00Z",
+					"type": "Point", 
+					"coordinates": [ 61.10, -18.20 ]
+				},
+				{
+					"date": "2018-01-16T18:00:00Z",
+					"type": "Point", 
+					"coordinates": [ 60.80, -18.20 ]
+				},
+				{
+					"date": "2018-01-17T00:00:00Z",
+					"type": "Point", 
+					"coordinates": [ 60.60, -18.30 ]
+				},
+				{
+					"date": "2018-01-17T06:00:00Z",
+					"type": "Point", 
+					"coordinates": [ 60.20, -18.10 ]
+				},
+				{
+					"date": "2018-01-17T12:00:00Z",
+					"type": "Point", 
+					"coordinates": [ 59.80, -18.30 ]
+				},
+				{
+					"date": "2018-01-17T18:00:00Z",
+					"type": "Point", 
+					"coordinates": [ 59.50, -18.90 ]
+				},
+				{
+					"date": "2018-01-18T00:00:00Z",
+					"type": "Point", 
+					"coordinates": [ 58.50, -19.70 ]
+				},
+				{
+					"date": "2018-01-18T06:00:00Z",
+					"type": "Point", 
+					"coordinates": [ 57.60, -20.70 ]
+				},
+				{
+					"date": "2018-01-18T12:00:00Z",
+					"type": "Point", 
+					"coordinates": [ 56.60, -21.50 ]
+				},
+				{
+					"date": "2018-01-18T18:00:00Z",
+					"type": "Point", 
+					"coordinates": [ 54.80, -22.40 ]
+				},
+				{
+					"date": "2018-01-19T00:00:00Z",
+					"type": "Point", 
+					"coordinates": [ 54.20, -22.80 ]
+				},
+				{
+					"date": "2018-01-19T06:00:00Z",
+					"type": "Point", 
+					"coordinates": [ 53.40, -23.80 ]
+				},
+				{
+					"date": "2018-01-19T12:00:00Z",
+					"type": "Point", 
+					"coordinates": [ 52.70, -25.00 ]
+				},
+				{
+					"date": "2018-01-19T18:00:00Z",
+					"type": "Point", 
+					"coordinates": [ 51.20, -26.60 ]
+				},
+				{
+					"date": "2018-01-20T00:00:00Z",
+					"type": "Point", 
+					"coordinates": [ 50.30, -27.90 ]
+				},
+				{
+					"date": "2018-01-20T06:00:00Z",
+					"type": "Point", 
+					"coordinates": [ 49.60, -29.50 ]
 				}
 			
 			]
 		},
 		{
-			"id": "EONET_3399",
-			"title": "Tropical Storm Joyce",
+			"id": "EONET_3403",
+			"title": "Rincon de la Vieja Volcano, Costa Rica",
             "description": "",
-			"link": "http://eonet.sci.gsfc.nasa.gov/api/v2.1/events/EONET_3399",
+			"link": "http://eonet.sci.gsfc.nasa.gov/api/v2.1/events/EONET_3403",
 			"categories": [
 				{
-					"id": 10,
-					"title": "Severe Storms"
+					"id": 12,
+					"title": "Volcanoes"
 				}
 			],
 			"sources": [
 				{
-					"id": "UNISYS",
-					"url": "http://weather.unisys.com/hurricane/s_indian/2018/JOYCE/track.dat"
+					"id": "SIVolcano",
+					"url": "http://volcano.si.edu/volcano.cfm?vn=345020"
 				}
 			
 			],
 			"geometries": [
-				{
-					"date": "2018-01-09T18:00:00Z",
-					"type": "Point", 
-					"coordinates": [ 123.30, -17.60 ]
-				},
-				{
-					"date": "2018-01-10T00:00:00Z",
-					"type": "Point", 
-					"coordinates": [ 123.10, -17.00 ]
-				},
-				{
-					"date": "2018-01-10T06:00:00Z",
-					"type": "Point", 
-					"coordinates": [ 122.70, -16.10 ]
-				},
-				{
-					"date": "2018-01-10T12:00:00Z",
-					"type": "Point", 
-					"coordinates": [ 122.50, -16.10 ]
-				},
-				{
-					"date": "2018-01-10T18:00:00Z",
-					"type": "Point", 
-					"coordinates": [ 122.10, -16.70 ]
-				},
-				{
-					"date": "2018-01-11T00:00:00Z",
-					"type": "Point", 
-					"coordinates": [ 121.60, -16.90 ]
-				},
-				{
-					"date": "2018-01-11T06:00:00Z",
-					"type": "Point", 
-					"coordinates": [ 121.60, -17.30 ]
-				},
-				{
-					"date": "2018-01-11T12:00:00Z",
-					"type": "Point", 
-					"coordinates": [ 121.50, -18.00 ]
-				},
-				{
-					"date": "2018-01-11T18:00:00Z",
-					"type": "Point", 
-					"coordinates": [ 121.60, -18.70 ]
-				},
-				{
-					"date": "2018-01-12T00:00:00Z",
-					"type": "Point", 
-					"coordinates": [ 121.00, -19.50 ]
-				},
-				{
-					"date": "2018-01-12T06:00:00Z",
-					"type": "Point", 
-					"coordinates": [ 120.60, -19.80 ]
-				},
-				{
-					"date": "2018-01-12T12:00:00Z",
-					"type": "Point", 
-					"coordinates": [ 119.80, -20.30 ]
-				}
-			
-			]
-		},
-		{
-			"id": "EONET_3398",
-			"title": "Cyclone Irving",
-            "description": "",
-			"link": "http://eonet.sci.gsfc.nasa.gov/api/v2.1/events/EONET_3398",
-			"categories": [
-				{
-					"id": 10,
-					"title": "Severe Storms"
-				}
-			],
-			"sources": [
-				{
-					"id": "UNISYS",
-					"url": "http://weather.unisys.com/hurricane/s_indian/2018/IRVING/track.dat"
-				}
-			
-			],
-			"geometries": [
-				{
-					"date": "2018-01-06T00:00:00Z",
-					"type": "Point", 
-					"coordinates": [ 91.60, -12.50 ]
-				},
-				{
-					"date": "2018-01-06T06:00:00Z",
-					"type": "Point", 
-					"coordinates": [ 90.40, -12.60 ]
-				},
-				{
-					"date": "2018-01-06T12:00:00Z",
-					"type": "Point", 
-					"coordinates": [ 89.20, -13.10 ]
-				},
-				{
-					"date": "2018-01-06T18:00:00Z",
-					"type": "Point", 
-					"coordinates": [ 88.20, -13.10 ]
-				},
-				{
-					"date": "2018-01-07T00:00:00Z",
-					"type": "Point", 
-					"coordinates": [ 87.30, -13.50 ]
-				},
-				{
-					"date": "2018-01-07T06:00:00Z",
-					"type": "Point", 
-					"coordinates": [ 85.70, -14.30 ]
-				},
-				{
-					"date": "2018-01-07T12:00:00Z",
-					"type": "Point", 
-					"coordinates": [ 84.30, -14.50 ]
-				},
-				{
-					"date": "2018-01-07T18:00:00Z",
-					"type": "Point", 
-					"coordinates": [ 83.00, -15.80 ]
-				},
-				{
-					"date": "2018-01-08T00:00:00Z",
-					"type": "Point", 
-					"coordinates": [ 81.40, -16.90 ]
-				},
-				{
-					"date": "2018-01-08T06:00:00Z",
-					"type": "Point", 
-					"coordinates": [ 79.80, -17.60 ]
-				},
-				{
-					"date": "2018-01-08T12:00:00Z",
-					"type": "Point", 
-					"coordinates": [ 78.30, -18.50 ]
-				},
-				{
-					"date": "2018-01-08T18:00:00Z",
-					"type": "Point", 
-					"coordinates": [ 76.80, -19.10 ]
-				},
 				{
 					"date": "2018-01-09T00:00:00Z",
 					"type": "Point", 
-					"coordinates": [ 75.10, -20.10 ]
+					"coordinates": [ -85.324, 10.83 ]
+				}
+			
+			]
+		},
+		{
+			"id": "EONET_3402",
+			"title": "Kadovar Volcano, Papua New Guinea",
+            "description": "The first confirmed historical eruption at Kadovar began around mid-day local time on 5 January, according to witnesses.",
+			"link": "http://eonet.sci.gsfc.nasa.gov/api/v2.1/events/EONET_3402",
+			"categories": [
+				{
+					"id": 12,
+					"title": "Volcanoes"
+				}
+			],
+			"sources": [
+				{
+					"id": "ReliefWeb",
+					"url": "https://reliefweb.int/disaster/vo-2018-000002-png"
 				},
 				{
-					"date": "2018-01-09T06:00:00Z",
-					"type": "Point", 
-					"coordinates": [ 74.20, -21.50 ]
-				},
+					"id": "SIVolcano",
+					"url": "http://volcano.si.edu/volcano.cfm?vn=251002"
+				}
+			
+			],
+			"geometries": [
 				{
-					"date": "2018-01-09T12:00:00Z",
+					"date": "2018-01-05T00:00:00Z",
 					"type": "Point", 
-					"coordinates": [ 72.50, -22.40 ]
-				},
-				{
-					"date": "2018-01-09T18:00:00Z",
-					"type": "Point", 
-					"coordinates": [ 70.50, -23.90 ]
-				},
-				{
-					"date": "2018-01-10T00:00:00Z",
-					"type": "Point", 
-					"coordinates": [ 69.30, -25.50 ]
-				},
-				{
-					"date": "2018-01-10T06:00:00Z",
-					"type": "Point", 
-					"coordinates": [ 68.40, -27.50 ]
-				},
-				{
-					"date": "2018-01-10T12:00:00Z",
-					"type": "Point", 
-					"coordinates": [ 68.20, -30.20 ]
-				},
-				{
-					"date": "2018-01-10T18:00:00Z",
-					"type": "Point", 
-					"coordinates": [ 69.30, -33.40 ]
+					"coordinates": [ 144.588, -3.608 ]
 				}
 			
 			]
@@ -355,33 +386,6 @@
 					"date": "2018-01-01T00:00:00Z",
 					"type": "Point", 
 					"coordinates": [ 9.437255859375, 42.374778361114195 ]
-				}
-			
-			]
-		},
-		{
-			"id": "EONET_3395",
-			"title": "Cold Snap in the Northeast U.S.",
-            "description": "As 2017 drew toward a close, Arctic air spilled into the eastern United States and Canada for several days.",
-			"link": "http://eonet.sci.gsfc.nasa.gov/api/v2.1/events/EONET_3395",
-			"categories": [
-				{
-					"id": 18,
-					"title": "Temperature Extremes"
-				}
-			],
-			"sources": [
-				{
-					"id": "EO",
-					"url": "https://earthobservatory.nasa.gov/NaturalHazards/event.php?id=91506"
-				}
-			
-			],
-			"geometries": [
-				{
-					"date": "2017-12-26T00:00:00Z",
-					"type": "Polygon", 
-					"coordinates": [[ [-100.78125, 31.32941583196569], [-100.78125, 57.76700710590949], [-70.234375, 57.76700710590949], [-70.234375, 31.32941583196569], [-100.78125, 31.32941583196569] ]]
 				}
 			
 			]
@@ -495,33 +499,6 @@
 			]
 		},
 		{
-			"id": "EONET_3383",
-			"title": "Shishaldin Volcano, Alaska",
-            "description": "",
-			"link": "http://eonet.sci.gsfc.nasa.gov/api/v2.1/events/EONET_3383",
-			"categories": [
-				{
-					"id": 12,
-					"title": "Volcanoes"
-				}
-			],
-			"sources": [
-				{
-					"id": "SIVolcano",
-					"url": "http://volcano.si.edu/volcano.cfm?vn=311360"
-				}
-			
-			],
-			"geometries": [
-				{
-					"date": "2017-12-06T00:00:00Z",
-					"type": "Point", 
-					"coordinates": [ -163.97, 54.756 ]
-				}
-			
-			]
-		},
-		{
 			"id": "EONET_3382",
 			"title": "Klyuchevskoy Volcano, Russia",
             "description": "",
@@ -549,60 +526,6 @@
 			]
 		},
 		{
-			"id": "EONET_3369",
-			"title": "Copahue Volcano, Chile-Argentina",
-            "description": "",
-			"link": "http://eonet.sci.gsfc.nasa.gov/api/v2.1/events/EONET_3369",
-			"categories": [
-				{
-					"id": 12,
-					"title": "Volcanoes"
-				}
-			],
-			"sources": [
-				{
-					"id": "SIVolcano",
-					"url": "http://volcano.si.edu/volcano.cfm?vn=357090"
-				}
-			
-			],
-			"geometries": [
-				{
-					"date": "2017-11-21T00:00:00Z",
-					"type": "Point", 
-					"coordinates": [ -71.183, -37.856 ]
-				}
-			
-			]
-		},
-		{
-			"id": "EONET_3368",
-			"title": "Great Sitkin Volcano, Alaska",
-            "description": "",
-			"link": "http://eonet.sci.gsfc.nasa.gov/api/v2.1/events/EONET_3368",
-			"categories": [
-				{
-					"id": 12,
-					"title": "Volcanoes"
-				}
-			],
-			"sources": [
-				{
-					"id": "SIVolcano",
-					"url": "http://volcano.si.edu/volcano.cfm?vn=311120"
-				}
-			
-			],
-			"geometries": [
-				{
-					"date": "2017-11-20T00:00:00Z",
-					"type": "Point", 
-					"coordinates": [ -176.13, 52.076 ]
-				}
-			
-			]
-		},
-		{
 			"id": "EONET_3397",
 			"title": "South Atlantic Bloom",
             "description": "",
@@ -625,33 +548,6 @@
 					"date": "2017-10-26T00:00:00Z",
 					"type": "Polygon", 
 					"coordinates": [[ [-62.8125, -53.972768909092075], [-62.8125, -38.18018499362547], [-47.734375, -38.18018499362547], [-47.734375, -53.972768909092075], [-62.8125, -53.972768909092075] ]]
-				}
-			
-			]
-		},
-		{
-			"id": "EONET_3334",
-			"title": "Kirishimayama Volcano, Japan",
-            "description": "",
-			"link": "http://eonet.sci.gsfc.nasa.gov/api/v2.1/events/EONET_3334",
-			"categories": [
-				{
-					"id": 12,
-					"title": "Volcanoes"
-				}
-			],
-			"sources": [
-				{
-					"id": "SIVolcano",
-					"url": "http://volcano.si.edu/volcano.cfm?vn=282090"
-				}
-			
-			],
-			"geometries": [
-				{
-					"date": "2017-10-11T00:00:00Z",
-					"type": "Point", 
-					"coordinates": [ 130.862, 31.934 ]
 				}
 			
 			]
@@ -1973,6 +1869,11 @@
 					"date": "2017-12-29T00:00:00Z",
 					"type": "Point", 
 					"coordinates": [ -92.09, -65.72 ]
+				},
+				{
+					"date": "2018-01-12T00:00:00Z",
+					"type": "Point", 
+					"coordinates": [ -91.86, -67.05 ]
 				}
 			
 			]
@@ -3932,6 +3833,11 @@
 					"date": "2017-12-29T00:00:00Z",
 					"type": "Point", 
 					"coordinates": [ -26.47, -54.92 ]
+				},
+				{
+					"date": "2018-01-12T00:00:00Z",
+					"type": "Point", 
+					"coordinates": [ -24.03, -55.67 ]
 				}
 			
 			]
@@ -4160,6 +4066,11 @@
 					"date": "2017-12-29T00:00:00Z",
 					"type": "Point", 
 					"coordinates": [ -20.62, -54.99 ]
+				},
+				{
+					"date": "2018-01-12T00:00:00Z",
+					"type": "Point", 
+					"coordinates": [ -16.84, -55.61 ]
 				}
 			
 			]
@@ -5354,6 +5265,11 @@
 					"date": "2013-04-08T00:00:00Z",
 					"type": "Point", 
 					"coordinates": [ 142.6649, -66.7354 ]
+				},
+				{
+					"date": "2018-01-12T00:00:00Z",
+					"type": "Point", 
+					"coordinates": [ 143.39, -66.37 ]
 				}
 			
 			]
