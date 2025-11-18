@@ -1,3 +1,4 @@
 *.db filter=lfs diff=lfs merge=lfs -text
 *.json filter=lfs diff=lfs merge=lfs -text
 SecurityNews.db filter=lfs diff=lfs merge=lfs -text
+POI.db filter=lfs diff=lfs merge=lfs -text
