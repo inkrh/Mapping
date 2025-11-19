@@ -2,14 +2,12 @@
 
 Mapping and Related Data Samples
 
-TODO: Merge data samples from additional repositories into this.
-
 *Interesting*
 
-interesting scraped data from a limited set of news sources for environment related keywords. Regularly updated. Date range 02/17 to date. NB - No context verification of keywords at present.
+interesting scraped data from a limited set of news sources for environment related keywords. Regularly updated. Date range 02/17 to date. NB - No context verification of keywords, and a security news equivalent.
 
 
-*Mapping*
+*Geography*
 
 *Calculate Prices*
 
