@@ -9,6 +9,10 @@ interesting scraped data from a limited set of news sources for environment rela
 
 *Geography*
 
+*Climate Change Docs*
+
+Documents (PDFs and reports via csv etc.) on climate change that were publicly available between 2017 and 2020, currently expunged from most US federal and state government websites, provided to FloodedCity via an old SeedDMS instance. SQL file at top level of this folder has the index of original titles, otherwise are stored by folder number and document number.
+
 *Calculate Prices*
 
 Sample server providing a service price calculator based on ZIP code with a base price plus multiplier.
