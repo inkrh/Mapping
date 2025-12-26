@@ -1,0 +1,10 @@
+Table 5-26:  Approach 2 Quantitative Uncertainty Estimates for CH4 and N2O Emissions from Field Burning of Agricultural Residues (MMT CO2 Eq. and Percent),,,,,,,
+,,,,,,,
+,Source,Gas,2014 Emission,Uncertainty Range Relative to Emission Estimate,,,
+,,,Estimate,,,,
+,,,(MMT CO2 Eq.),(MMT CO2 Eq.),,(%),
+,,,,Lower,Upper,Lower,Upper
+,,,,Bound,Bound,Bound,Bound
+,Field Burning of Agricultural Residues,CH4,0.3,0.16,0.38,-40%,40%
+,Field Burning of Agricultural Residues,N2O,0.1,0.07,0.12,-29%,29%
+,a Range of emission estimates predicted by Monte Carlo Stochastic Simulation for a 95 percent confidence interval.,,,,,,

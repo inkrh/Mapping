@@ -1,0 +1,47 @@
+Table A-93: Energy Consumption by Fuel and Vehicle Type (Tbtu),,,,,,,,,,,,,,,,,,,,,,,,,,
+,Fuel/Vehicle Typea ,1990,1991,1992,1993,1994,1995,1996,1997,1998,1999,2000,2001,2002,2003,2004,2005,2006,2007b,2008,2009,2010,2011,2012,2013,2014
+,"Motor Gasolinec, d","13,810","13,605","13,891","14,182","14,407","14,687","14,987","15,156","15,596","15,923","16,031","16,208","16,531","16,585","16,802","16,671","16,426","16,259","15,548","15,441","15,315","14,982","14,924","14,937","15,192"
+,  Passenger Cars,"8,725","8,150","8,226","8,329","8,431","8,442","8,572","8,572","8,853","9,079","9,045","9,120","9,294","8,996","8,943","9,237","8,854","11,017","10,533","10,434","10,348","10,272","10,253","10,253","10,282"
+,  Light-Duty Trucks,"4,340","4,711","5,020","5,199","5,330","5,512","5,709","5,901","6,043","6,318","6,303","6,363","6,507","6,931","7,197","6,720","6,854","4,343","4,112","4,162","4,136","3,930","3,888","3,892","4,114"
+,  Motorcycles,24,24,24,25,26,25,24,25,26,26,26,24,24,23,24,23,26,59,61,58,51,50,57,54,53
+,  Buses,5,5,5,5,5,5,5,5,5,6,5,5,5,4,6,5,5,10,10,10,10,10,11,12,12
+,  Medium- and Heavy-Duty Trucks,544,538,525,509,512,506,494,484,491,499,508,495,501,431,435,491,495,642,649,597,593,545,542,554,560
+,  Recreational Boatse,172,178,91,115,103,197,183,168,177,-4,143,201,200,199,197,195,192,188,183,180,176,174,173,172,171
+,"Distillate Fuel Oil (Diesel Fuel)a, d","3,555","3,450","3,666","3,889","4,183","4,379","4,595","4,798","4,950","5,246","5,437","5,411","5,590","5,705","5,910","6,186","6,334","6,395","6,059","5,488","5,706","5,814","5,780","5,866","6,052"
+,  Passenger Cars,107,94,99,113,115,106,91,82,76,59,49,50,50,57,58,57,56,55,50,49,51,55,55,55,56
+,  Light-Duty Trucks,155,154,170,183,189,201,212,220,233,256,272,281,296,367,391,349,361,183,163,162,169,176,175,174,188
+,  Buses,108,99,104,113,119,118,123,125,128,143,138,126,119,129,182,143,143,209,198,184,182,195,208,210,225
+,  Medium- and Heavy-Duty Trucks,"2,576","2,517","2,666","2,851","3,063","3,220","3,393","3,593","3,762","3,995","4,181","4,174","4,353","4,370","4,516","4,870","4,986","5,168","4,917","4,455","4,634","4,656","4,657","4,733","4,885"
+,  Recreational Boats,26,27,28,30,31,32,33,34,35,36,37,39,40,41,42,43,44,45,46,47,48,49,50,51,52
+,  Ships and Other Boats,102,107,133,123,152,167,198,198,166,185,190,172,166,163,111,108,100,109,106,106,100,137,101,102,83
+,  Railf,480,451,465,478,515,535,545,547,551,571,569,571,566,579,610,616,644,625,580,486,523,547,534,543,564
+,Jet Fuelg,"2,590","2,374","2,344","2,368","2,474","2,429","2,556","2,554","2,608","2,665","2,700","2,626","2,565","2,482","2,585","2,622","2,524","2,485","2,396","2,134","2,097","2,030","1,985","2,037","2,057"
+,  Commercial Aircraft,"1,562","1,453","1,483","1,529","1,599","1,638","1,686","1,747","1,701","1,853","1,981","1,771","1,725","1,747","1,775","1,887","1,948","1,986","1,809","1,699","1,611","1,629","1,611","1,624","1,638"
+,  General Aviation Aircraft,545,441,468,455,526,454,548,514,607,524,427,537,556,449,515,484,350,276,362,241,314,256,224,274,226
+,  Military Aircrafta,484,480,393,384,349,337,322,293,300,288,293,318,285,287,295,251,227,224,225,194,173,145,150,138,193
+,Aviation Gasolineg,45,42,41,38,38,40,37,40,35,39,36,35,34,30,31,35,33,32,28,27,27,27,25,22,22
+,  General Aviation Aircraft,45,42,41,38,38,40,37,40,35,39,36,35,34,30,31,35,33,32,28,27,27,27,25,22,22
+,"Residual Fuel Oilg, h ",300,224,400,368,358,387,315,137,79,176,443,159,228,99,186,256,306,386,271,186,272,258,211,201,77
+,  Ships and Other Boats,300,224,400,368,358,387,315,137,79,176,443,159,228,99,186,256,306,386,271,186,272,258,211,201,77
+,Natural Gasg,680,620,608,645,709,724,737,780,666,675,672,658,699,627,602,624,625,663,692,715,719,734,780,887,899
+,  Passenger Cars,-,-,-,1,1,2,+ ,+ ,+ ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,  Light-Duty Trucks,-,-,-,+ ,-,+ ,1,1,+ ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,  Buses,-,-,-,+ ,1,1,2,3,4,6,8,9,12,14,16,16,16,19,21,22,20,20,20,21,21
+,  Pipelines,680,620,608,644,707,721,734,776,661,670,664,649,687,614,586,608,609,645,672,693,699,713,760,867,878
+,LPGg,23,21,19,20,34,18,16,14,18,14,12,14,14,18,19,28,27,22,40,28,29,34,37,44,44
+,  Buses,-,-,-,1,+ ,+ ,+ ,+ ,+ ,+ ,+ ,+ ,+ ,+ ,+ ,+ ,+ ,-,-,-,-,-,-,+ ,+ 
+,  Light-Duty Trucks,9,9,8,8,15,8,7,7,9,8,8,9,10,12,14,21,20,16,29,19,21,24,27,31,31
+,  Medium- and Heavy-Duty Trucks,14,13,12,12,19,9,8,7,9,6,4,4,4,5,5,7,8,6,11,9,9,10,11,13,13
+,Electricityg,16,16,16,16,17,17,17,17,17,17,18,20,19,23,25,26,25,28,26,27,26,26,25,26,26
+,  Rail,16,16,16,16,17,17,17,17,17,17,18,20,19,23,25,26,25,28,26,27,26,26,25,26,26
+,Total,"21,019","20,352","20,985","21,527","22,220","22,681","23,260","23,495","23,969","24,755","25,350","25,131","25,680","25,570","26,160","26,449","26,302","26,270","25,061","24,045","24,192","23,905","23,768","24,022","24,369"
+,"""-"" Unreported or zero",,,,,,,,,,,,,,,,,,,,,,,,,
+, + Does not exceed 0.5 Tbtu,,,,,,,,,,,,,,,,,,,,,,,,,
+,a Note that updates to the distillate fuel oil heat content data from EIA for years 1993 through present resulted in changes to the time series for energy consumption and emissions compared to the previous Inventory.,,,,,,,,,,,,,,,,,,,,,,,,,
+,"b In 2011, FHWA changed its methodology for Table VM-1, which impacts estimates for the 2007-2014 time period.  These methodological changes include how on-road vehicles are classified, moving from a system based on body-type to one that is based on wheelbase.  This resulted in large changes in fuel consumption data by vehicle class between 2006 and 2007.  ",,,,,,,,,,,,,,,,,,,,,,,,,
+,"c Figures do not include ethanol blended in motor gasoline or biodiesel blended into distillate fuel oil. Net carbon fluxes associated with ethanol are accounted for in the Land Use, Land-Use Change and Forestry chapter. ",,,,,,,,,,,,,,,,,,,,,,,,,
+,"d Gasoline and diesel highway vehicle fuel consumption estimates are based on data from FHWA Highway Statistics Table VM-1 and MF-27 (FHWA 1996 through 2015). These fuel consumption estimates are combined with estimates of fuel shares by vehicle type from DOE’s TEDB Annex Tables A.1 through A.6 (DOE 1993 through 2015).  TEDB data for 2014 has not been published yet, therefore 2013 data is used as a proxy.   ",,,,,,,,,,,,,,,,,,,,,,,,,
+,e Fluctuations in recreational boat gasoline estimates reflect the use of this category to reconcile bottom-up values with EIA total gasoline estimates.,,,,,,,,,,,,,,,,,,,,,,,,,
+,"f Class II and Class II diesel consumption data for 2014 is not available yet, therefore 2013 data is used as a proxy.  ",,,,,,,,,,,,,,,,,,,,,,,,,
+,"g Estimated based on EIA transportation sector energy estimates, with bottom-up data used for apportionment to modes.  ",,,,,,,,,,,,,,,,,,,,,,,,,
+,h Fluctuations in reported fuel consumption may reflect data collection problems. Residual fuel oil for ships and other boats data is based on EIA’s December 2015 Monthly Energy Review data.,,,,,,,,,,,,,,,,,,,,,,,,,

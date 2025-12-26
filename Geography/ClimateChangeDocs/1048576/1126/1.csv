@@ -1,0 +1,27 @@
+Table A-70: Summary of 2010 MECS Data for Other Fuels Used in Manufacturing/Energy Recovery (Trillion Btu),,,,,,
+Subsector and Industry,NAICS CODE,Waste Gasa,Waste Oils/Tarsb,Refinery Still Gasc,Net Steamd,Other Fuelse
+Printing and Related Support,323,0,0,0,0,0
+Petroleum and Coal Products,324,0,6,"1,349",153,54
+Chemicals,325,376,7,0,266,110
+Plastics and Rubber Products,326,0,0,0,0,0
+Nonmetallic Mineral Products,327,1,7,0,0,0
+Primary Metals,331,0,0,0,12,34
+Fabricated Metal Products,332,0,0,0,0,0
+Machinery,333,0,0,0,0,1
+Computer and Electronic Products,334,0,0,0,0,0
+"Electrical Equip., Appliances, Components",335,0,0,0,0,0
+Transportation Equipment,336,2,0,0,0,3
+Furniture and Related Products,337,0,0,0,0,0
+Miscellaneous,339,0,0,0,0,0
+Total (Trillion Btu),,379,20,"1,349",432,201
+Average C Content (MMT/QBtu),,18.14,20.62,17.51,0,19.37
+Fraction Oxidized,,1,1,1,0,1
+Total C (MMT),,6.88,0.41,23.62,0,3.9
+Total C (MMT) (ex. still gas from refining),,6.88,0.41,NA   ,NA   ,3.9
+NA (Not Applicable),,,,,,
+a C content: Waste Gas is assumed to be same as naphtha <401 deg. F.,,,,,,
+b C content: Waste Oils/Tars is assumed to be same as asphalt/road oil.,,,,,,
+"c Refinery ""still gas"" fuel consumption is reported elsewhere in the Inventory and is excluded from the total C content estimate.",,,,,,
+d Net steam fuel consumption is reported elsewhere in the Inventory and is excluded from the total C content estimate.,,,,,,
+"e C content: ""Other"" is assumed to be the same as petrochemical feedstocks.",,,,,,
+,,,,,,

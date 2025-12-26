@@ -1,0 +1,14 @@
+Table 3-22:  Approach 2 Quantitative Uncertainty Estimates for CO2 Emissions from Non-Energy Uses of Fossil Fuels (MMT CO2 Eq. and Percent),,,,,,,
+,,,,,,,
+,Source,Gas,2014 Emission Estimate,Uncertainty Range Relative to Emission Estimatea,,,
+,,,(MMT CO2 Eq.),(MMT CO2 Eq.),,(%),
+,,,,Lower,Upper,Lower,Upper
+,,,,Bound,Bound,Bound,Bound
+,Feedstocks,CO2,75.1,49.6,125.3,-34%,67%
+,Asphalt,CO2,0.3,0.1,0.6,-57%,117%
+,Lubricants,CO2,18.9,15.5,21.9,-18%,16%
+,Waxes,CO2,0.5,0.3,0.7,-28%,63%
+,Other,CO2,19.6,14.1,21.7,-28%,11%
+,Total,CO2,114.3,86.2,162.9,-25%,42%
+,a Range of emission estimates predicted by Monte Carlo Stochastic Simulation for a 95 percent confidence interval.,,,,,,
+,Note: Totals may not sum due to independent rounding.,,,,,,

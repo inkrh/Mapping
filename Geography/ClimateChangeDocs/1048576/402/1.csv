@@ -1,0 +1,68 @@
+Table A-127:  2014 CH4 Emissions from Petroleum Production Field Operations  ,,,,,,
+,2014 EPA Inventory Values,,,,,
+Activity/Equipment,,,,,,
+,Emission Factor,,Activity Data,,Emissions (Bcf/yr),Emissions (kt/yr)
+Vented Emissions,,,,,128.872,"2,478.30"
+Oil Tanks,7.4,scf of CH4/bbl crudea,"2,782","MMbbl/yr (non-stripper wells)b,c,d,1",20.575,395.7
+"Pneumatic controllers, High Bleed",622,scfd CH4/controllerr,"43,211","No. of high-bleed controllersr,2",9.806,188.6**
+"Pneumatic controllers, Low Bleed",23,scfd CH4/controllerr,"300,940","No. of low-bleed controllersr,2",2.51,48.3**
+"Pneumatic controllers, Int Bleed",218,scfd CH4/controllerr,"868,079","No. of int-bleed controllersr,2",69.173,"1,330.2**"
+Chemical Injection Pumps,216,scfd CH4/pumpr,"127,484","No. of pumpsr,2",10.03,192.9
+Vessel Blowdowns,78,scfy CH4/vesselh,"502,754","No. of vesselsc,g,i,q,1",0.039,0.8
+Compressor Blowdowns,"3,775",scf/yr of CH4/compressorh,"2,967","No. of compressorsc,g,i,q,1",0.011,0.2
+Compressor Starts,"8,443",scf/yr of CH4/compressorh,"2,967","No. of compressorsc,g,i,1",0.025,0.5
+Stripper wells,"2,345",scf/yr of CH4/stripper wellf,"327,674","No. of stripper wells ventedf,d,4",0.768,14.8
+Well Completion Venting,733,scf/completionh,"15,753","Oil well completionsc,4",0.012,0.2
+Well Workovers,96,scf CH4/workoveri,"67,370","Oil well workoversg,i,1,4",0.006,0.1
+"HF Well Completions, Uncontrolled","351,146",scf/HF completionss,"17,522","HF oil well completionst,2",6.153,118.3
+"HF Well Completions, Controlled","17,557",scf/HF completions,"1,319","HF oil well completions t,2",0.023,0.4
+Pipeline Pigging,2.4,scfd of CH4/pig stationj,0,"No. of crude pig stationse,3",0,0
+"Offshore Platforms, Shallow water Oil, fugitive, vented and combusted","16,552",scfd CH4/platformq,"1,447","No. of shallow water oil platformsl,4",8.739,168.1
+"Offshore Platforms, Deepwater oil, fugitive, vented and combusted","93,836",scfd CH4/platformq,29,"No. of deep water oil platformsl,4",1.001,19.3
+Fugitive Emissions,,,,,6.479,124.6
+Oil Wellheads (heavy crude),0.13,"scfd/welle,m","40,227","No. of hvy. Crude wellsd,i,t,1,4 ",0.002,0.0*
+Oil Wellheads (light crude),17,"scfd/welle,m","530,367","No. of lt. crude wellsd,i,t,1,4 ",3.219,61.9
+Separators (heavy crude),0.15,"scfd CH4/separatore,m","38,520","No. of hvy. Crude seps.r,2",0.002,0.0*
+Separators (light crude),14,"scfd CH4/separatore,m","350,573","No. of lt. crude seps. r,2",1.773,34.1
+Heater/Treaters (light crude),19,"scfd CH4/heatere,m","113,662","No. of heater treaters r,2",0.796,15.3
+Headers (heavy crude),0.08,"scfd CH4/headere,m","35,647","No. of hvy. Crude hdrs. r,2",0.001,0.0*
+Headers (light crude),11,"scfd CH4/headere,m","110,509","No. of lt. crude hdrs. r,2",0.438,8.4
+Floating Roof Tanks,"338,306","scf CH4/floating roof tank/yrm,n",24,"No. of floating roof tankse,3",0.008,0.2
+Compressors,100,scfd CH4/compressore,"2,967","No. of compressorsc,i,t,1",0.108,2.1
+Large Compressors,"16,360",scfd CH4/compressore,0,"No. of large comprs.e,3",0,0
+Sales Areas,41,scf CH4/loadinge,"2,648,868","Loadings/yearc,1",0.107,2.1
+Pipelines ,NE,scfd of CH4/mile of pipeline,"14,571","Miles of gathering lineo,2",NE,NE
+Well Drilling,NE,scfd of CH4/oil well drilled,"17,774","No. of oil wells drilledc,2",NE,NE
+Battery Pumps,0.24,scfd of CH4/pumpm,"269,480","No. of battery pumpsg,e,1",0.024,0.5
+Combustion Emissions,,,,,6.196,119.2
+Gas Engines,0.24,scf CH4/HP-hrh,"18,694","MMHP-hrc,g,i,1",4.487,86.3
+Heaters,0.52,scf CH4/bbln,"3,179","MMbbl/yrc,2",1.657,31.9
+Well Drilling ,"2,453",scf CH4/well drilledm,"17,774","Oil wells drilledc,4",0.044,0.8
+Flares,20,scf CH4/Mcf flaredj,"452,651","Mcf flared/yr b,c,d,1,4",0.009,0.2
+Process Upset Emissions,,,,,0.157,3
+Pressure Relief Valves,35,scf/yr/PR valveh,"265,554","No. of PR valvesc,e,1",0.009,0.2
+Well Blowouts Onshore,2.5,MMscf/blowoutf,59,"No. of blowouts/yrc,e,1",0.148,2.8
+Voluntary Reductions ,,,,,-1.605,-30.9
+Total Potential Emissions ,,,,,141.704,"2,725.10"
+Total Net Emissions  ,,,,,140.1,"2,694.20"
+"""-"" Zero Emissions",,,,,,
+"* Emissions are not actually 0, but too small to show at this level of precision.",,,,,,
+a TankCALC,,,,,,
+b EPA / ICF International (1999),,,,,,
+c Energy Information Administration (EIA) Monthly Energy Review,,,,,,
+d Interstate Oil & Gas Compact Commission (IOGCC) Marginal Wells Report,,,,,,
+e Consensus of Industrial Review Panel,,,,,,
+f Expert Judgment,,,,,,
+g EIA Annual Energy Review,,,,,,
+h Gas Research Institute (GRI) / EPA (1996),,,,,,
+i Radian (1999),,,,,,
+j Canadian Association of Petroleum Producers (CAPP) (1992),,,,,,
+k Adapted from the Minerals Management Service (MMS) Gulfwide Offshore Activities Data System (GOADS) by ICF (2005),,,,,,
+l Bureau of Ocean Energy Management (BOEM),,,,,,
+m American Petroleum Institute (API) (1996),,,,,,
+"n EPA, AP 42 Compilation of Air Pollutant Emission Factors",,,,,,
+o Oil and Gas Journal (OGJ) Petroleum Economics Issue,,,,,,
+q BOEM 2011 Gulf-wide Emissions Inventory Study (2014) ,,,,,,
+r GHGRP data,,,,,,
+s DrillingInfo data from analysis supporting the NSPS OOOOa proposal,,,,,,
+t  DrillingInfo data,,,,,,

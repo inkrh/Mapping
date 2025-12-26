@@ -1,0 +1,27 @@
+Table A-129:  2014 CH4 Emissions from Petroleum Refining,,,,,,
+,2014 EPA Inventory Values,,,,,
+Activity/Equipment,Emission Factor,,Activity Factor,,Emissions (Bcf/yr),Emissions (kt/yr)
+Vented Emissions,,,,,0.373,7.2
+Uncontrolled Blowdowns,0.000971,MT CH4/Mbbld,"5,784,637",Mbbl/year refinery feeda,0.292,5.6
+Asphalt Blowing,0.000049,MT CH4/Mbbld,"5,784,637",Mbbl/year refinery feeda,0.015,0.3
+Process Vents,0.000215,MT CH4/Mbbld,"5,784,637",Mbbl/year refinery feeda,0.065,1.2
+CEMS,0.000006,MT CH4/Mbbld,"5,784,637",Mbbl/year refinery feeda,0.002,0.0*
+Fugitive Emissions,,,,,0.234,4.5
+Equipment Leaks,0.000457,MT CH4/Mbbld ,"5,784,637", Mbbl/year refinery feeda,0.137,2.6
+Storage Tanks,0.000237,MT CH4/Mbbld ,"5,784,637", Mbbl/year refinery feeda,0.071,1.4
+Wastewater Treating,0.00798,"lb VOC/bblb,c","5,784,637",Mbbl/year refinery feeda,0.011,0.2
+Cooling Towers,0.01,"lb VOC/bblb,c","5,784,637",Mbbl/year refinery feeda,0.014,0.3
+Loading Operations,0.000002,MT CH4/Mbbld,"5,784,637", Mbbl/year refinery feeda,0.001,0.0*
+Combustion Emissions,,,,,0.614,11.8
+"Catalytic Cracking, Coking, Reforming",0.000248,MT CH4/Mbbld ,"5,784,637", Mbbl/year refinery feeda,0.075,1.4
+Flares,0.001611,MT CH4/Mbbld ,"5,784,637", Mbbl/year refinery feeda,0.485,9.3
+Delay Cokers,0.000178,MT CH4/Mbbld ,"5,784,637", Mbbl/year refinery feeda,0.054,1
+Coke Calcining,0.000005,MT CH4/Mbbld ,"5,784,637", Mbbl/year refinery feeda,0.002,0.0*
+Total ,,,,,1.221,23.5
+,,,,,,
+"* Emissions are not actually 0, but too small to show at this level of precision.",,,,,,
+"a EIA Petroleum Supply Annual, Volume 1.",,,,,,
+b Radian (1996),,,,,,
+c Assuming methane is 1% of total hydrocarbons (AP-42),,,,,,
+d GHGRP data,,,,,,
+Note: The methodology for year 2014 is to use GHGRP emissions data as-reported. The emission factors in this table were developed for this table by dividing 2014 emissions by 2014 refinery feed rate.,,,,,,

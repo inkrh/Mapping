@@ -1,0 +1,33 @@
+Table A-96:  Vehicle Miles Traveled for Diesel On-Road Vehicles (million miles),,,
+Year,Passenger,Light-Duty,Heavy-Duty
+,Cars,Trucks,Vehiclesa
+1990,16.9,19.7,125.7
+1991,16.3,21.6,129.4
+1992,16.5,23.4,133.6
+1993,17.9,24.7,140.6
+1994,18.3,25.3,150.8
+1995,17.3,26.9,159
+1996,14.7,27.8,164.6
+1997,13.5,29,173.8
+1998,12.4,30.5,178.8
+1999,9.4,32.6,185.6
+2000,8,35.2,188.4
+2001,8.1,37,191.5
+2002,8.3,38.9,196.7
+2003,8.4,39.7,199.6
+2004,8.5,41.4,202.1
+2005,8.5,41.9,203.4
+2006,8.4,43.4,202.3
+2007,10.5,23.3,281.8
+2008,10.1,24.1,288.1
+2009,10,24.6,267.6
+2010,10.1,24.8,265.8
+2011b,10.1,23.3,245.6
+2012,10.1,23.1,247.9
+2013,10.1,22.6,250.5
+2014,10,24,255
+"Source: Derived from FHWA (1996 through 2015), Browning (2015).",,,
+"a  Heavy-Duty Vehicles includes Medium-Duty Trucks, Heavy-Duty Trucks, and Buses.",,,
+"b In 2011, FHWA changed its methodology for Table VM-1, which impacts estimates for the 2007 to 2014 time period.  These methodological changes include how on-road vehicles are classified, moving from a system based on body-type to one that is based on wheelbase.  This resulted in large changes in VMT data by vehicle class between 2006 and 2007. ",,,
+"Note: In 2015, EIA changed its methods for estimating AFV fuel consumption. These methodological changes included how vehicle counts are estimated, moving from estimates based on modeling to one that is based on survey data.  EIA now publishes data about fuel use and number of vehicles for only four types of AFV fleets: federal government, state government, transit agencies, and fuel providers. These changes were first incorporated in this year’s inventory and apply to the 1990 to 2014 time period.  This resulted in large reductions in AFV VMT, thus leading to a shift in VMT to conventional on-road vehicle classes. ",,,
+Note: Gasoline and diesel highway vehicle mileage are based on data from FHWA Highway Statistics Table VM-1 (FHWA 1996 through 2015). These mileage consumption estimates are combined with estimates of fuel shares by vehicle type from DOE’s TEDB Annex Tables A.1 through A.6 (DOE 1993 through 2015).   ,,,

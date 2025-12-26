@@ -1,0 +1,45 @@
+Table A-107:  Emission Factors for CH4 and N2O for On-Road Vehicles,,
+Vehicle Type/Control Technology,N2O,CH4
+,(g/mi),(g/mi)
+Gasoline Passenger Cars,,
+  EPA Tier 2,0.0036,0.0173
+  Low Emission Vehicles,0.015,0.0105
+  EPA Tier 1a,0.0429,0.0271
+  EPA Tier 0 a,0.0647,0.0704
+  Oxidation Catalyst,0.0504,0.1355
+  Non-Catalyst Control,0.0197,0.1696
+  Uncontrolled,0.0197,0.178
+Gasoline Light-Duty Trucks,,
+  EPA Tier 2,0.0066,0.0163
+  Low Emission Vehicles,0.0157,0.0148
+  EPA Tier 1a,0.0871,0.0452
+  EPA Tier 0a,0.1056,0.0776
+  Oxidation Catalyst,0.0639,0.1516
+  Non-Catalyst Control,0.0218,0.1908
+  Uncontrolled,0.022,0.2024
+Gasoline Heavy-Duty Vehicles,,
+  EPA Tier 2,0.0134,0.0333
+  Low Emission Vehicles,0.032,0.0303
+  EPA Tier 1a,0.175,0.0655
+  EPA Tier 0a,0.2135,0.263
+  Oxidation Catalyst,0.1317,0.2356
+  Non-Catalyst Control,0.0473,0.4181
+  Uncontrolled,0.0497,0.4604
+Diesel Passenger Cars,,
+  Advanced,0.001,0.0005
+  Moderate,0.001,0.0005
+  Uncontrolled,0.0012,0.0006
+Diesel Light-Duty Trucks,,
+  Advanced,0.0015,0.001
+  Moderate,0.0014,0.0009
+  Uncontrolled,0.0017,0.0011
+Diesel Medium- and Heavy-Duty Trucks and Buses,,
+  Aftertreatment,0.0048,0.0051
+  Advanced,0.0048,0.0051
+  Moderate,0.0048,0.0051
+  Uncontrolled,0.0048,0.0051
+Motorcycles,,
+  Non-Catalyst Control,0.0069,0.0672
+  Uncontrolled,0.0087,0.0899
+Source: ICF (2006b and 2004).,,
+"a The categories “EPA Tier 0” and “EPA Tier 1” were substituted for the early three-way catalyst and advanced three-way catalyst categories, respectively, as defined in the 2006 IPCC Guidelines. Detailed descriptions of emissions control technologies are provided at the end of this Annex.",,

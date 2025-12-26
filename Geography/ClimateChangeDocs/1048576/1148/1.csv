@@ -1,0 +1,32 @@
+Table A-95:  Vehicle Miles Traveled for Gasoline On-Road Vehicles (million miles),,,,
+Year,Passenger Cars,Light-Duty Trucks,Heavy-Duty Vehiclesb,Motorcycles
+1990,1391.4,554.8,25.8,9.6
+1991,1341.9,627.8,25.4,9.2
+1992,1355.1,683.4,25.1,9.6
+1993,1356.8,721,24.9,9.9
+1994,1387.7,739.2,25.3,10.2
+1995,1421.0,763,25.1,9.8
+1996,1455.1,788.6,24.4,9.9
+1997,1489.0,821.6,24,10.1
+1998,1537.1,837.7,24.1,10.3
+1999,1559.6,868.3,24.3,10.6
+2000,1592.2,887.6,24.2,10.5
+2001,1620.0,905.9,23.9,9.6
+2002,1650.0,926.8,23.9,9.6
+2003,1663.5,944.1,24.2,9.6
+2004,1691.1,985.5,24.6,10.1
+2005,1699.6,998.8,24.8,10.5
+2006,1681.8,1038.6,24.8,12
+2007,2093.7,562.8,34.2,21.4
+2008,2014.5,580.9,35,20.8
+2009,2005.5,592.4,32.5,20.8
+2010,2015.4,597.4,32.3,18.5
+2011a,2035.7,579.6,30.2,18.5
+2012,2051.6,576.8,30.5,21.4
+2013,2062.1,578.7,31.2,20.4
+2014,2058.2,612.4,31.7,20
+"Source: Derived from FHWA (1996 through 2014), Browning (2015).",,,,
+"a In 2011, FHWA changed its methodology for Table VM-1, which impacts estimates for the 2007 to 2014 time period.  These methodological changes include how on-road vehicles are classified, moving from a system based on body-type to one that is based on wheelbase.  This resulted in large changes in VMT data by vehicle class between 2006 and 2007.",,,,
+"b  Heavy-Duty Vehicles includes Medium-Duty Trucks, Heavy-Duty Trucks, and Buses.",,,,
+"Note: In 2015, EIA changed its methods for estimating AFV fuel consumption. These methodological changes included how vehicle counts are estimated, moving from estimates based on modeling to one that is based on survey data.  EIA now publishes data about fuel use and number of vehicles for only four types of AFV fleets: federal government, state government, transit agencies, and fuel providers. These changes were first incorporated in this year’s inventory and apply to the 1990-2014 time period. This resulted in large reductions in AFV VMT, thus leading to a shift in VMT to conventional on-road vehicle classes.",,,,
+"Note: Gasoline and diesel highway vehicle mileage are based on data from FHWA Highway Statistics Table VM-1 (FHWA 1996 through 2015). These mileage consumption estimates are combined with estimates of fuel shares by vehicle type from DOE’s TEDB Annex Tables A.1 through A.6 (DOE 1993 through 2015).  TEDB data for 2014 has not been published yet, therefore 2013 data is used as a proxy.",,,,

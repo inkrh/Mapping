@@ -1,0 +1,31 @@
+Table A-279:  2014 Potential CO2 Emissions,,,,
+Fuel Category,Fuel Type,Apparent Consumption (QBtu),Carbon Coefficients,Potential Emissions 
+,,,(MMT Carbon/QBtu),(MMT CO2 Eq.)
+Solid Fuels ,Anthracite Coal,0.04,28.28,3.8
+,Bituminous Coal,10.79,25.44,1006.1
+,Sub-bituminous Coal,8.13,26.5,789.8
+,Lignite,0.87,26.65,85.1
+,Coke,-0.02,31,-2.5
+,Unspecified,-2.88,25.34,-267.8
+Gas Fuels,Natural Gas,27.33,14.46,1448.7
+Liquid Fuels,Crude Oil,33.69,20.31,2508.2
+,Nat Gas Liquids and LRGs,3.17,16.89,196.5
+,Other Liquids,1.39,20.31,103.8
+,Motor Gasoline,-1.03,19.46,-73.3
+,Aviation Gasoline,0,18.86,-0.1
+,Kerosene,-0.01,19.96,-1.0
+,Jet Fuel,-1.08,19.7,-77.8
+,Distillate Fuel,-1.94,20.17,-143.6
+,Residual Oil,-0.72,20.48,-53.9
+,Naphtha for petrochemical feedstocks,0.05,18.55,3.5
+,Petroleum Coke,-1.22,27.85,-124.3
+,Other Oil for petrochemical feedstocks,0.01,20.17,0.8
+,Special Naphthas,0.03,19.74,1.8
+,Lubricants,-0.09,20.2,-6.4
+,Waxes,0,19.8,0.0
+,Asphalt/Road Oil,0.02,20.55,1.3
+,Still Gas,  -  ,18.2,  -  
+,Misc. Products,0.05,20.31,3.7
+Total,,,,5402.4
+Notes: Totals may not sum due to independent rounding.  Parentheses indicate negative values.,,,,
+"Sources: C content coefficients by coal rank from USGS (1998) and SAIC (2004); Unspecified Solid Fuels, EIA (1995-2015), Natural Gas and Liquid Fuels: EPA (1995-2015).",,,,

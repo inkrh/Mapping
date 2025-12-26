@@ -1,0 +1,41 @@
+Table A-257: Ratio for Estimating Downed Dead Wood by Region and Forest Type,,,,,
+Regiona,Forest typea,Ratiob,Region (cont’d),Forest type (cont’d),Ratiob (cont’d)
+NE,Aspen-Birch,0.078,PWW,Douglas-fir,0.1
+,MBB/Other Hardwood,0.071,,Fir-Spruce,0.09
+,Oak-Hickory,0.068,,Other Conifer,0.073
+,Oak-Pine,0.061,,Other Hardwoods,0.062
+,Other Pine,0.065,,Red Alder,0.095
+,Spruce-Fir,0.092,,Western Hemlock,0.099
+,White-Red-Jack Pine,0.055,,Nonstocked,0.02
+,Nonstocked,0.019,RMN,Douglas-fir,0.062
+NLS,Aspen-Birch,0.081,,Fir-Spruce,0.1
+,Lowland Hardwood,0.061,,Hardwoods,0.112
+,Maple-Beech-Birch,0.076,,Lodgepole Pine,0.058
+,Oak-Hickory,0.077,,Other Conifer,0.06
+,Pine,0.072,,Pinyon-Juniper,0.03
+,Spruce-Fir,0.087,,Ponderosa Pine,0.087
+,Nonstocked,0.027,,Nonstocked,0.018
+NPS,Conifer,0.073,RMS,Douglas-fir,0.077
+,Lowland Hardwood,0.069,,Fir-Spruce,0.079
+,Maple-Beech-Birch,0.063,,Hardwoods,0.064
+,Oak-Hickory,0.068,,Lodgepole Pine,0.098
+,Oak-Pine,0.069,,Other Conifer,0.06
+,Nonstocked,0.026,,Pinyon-Juniper,0.03
+PSW,Douglas-fir,0.091,,Ponderosa Pine,0.082
+,Fir-Spruce,0.109,,Nonstocked,0.02
+,Hardwoods,0.042,SC,Bottomland Hardwood,0.063
+,Other Conifer,0.1,,Misc. Conifer,0.068
+,Pinyon-Juniper,0.031,,Natural Pine,0.068
+,Redwood,0.108,,Oak-Pine,0.072
+,Nonstocked,0.022,,Planted Pine,0.077
+PWE,Douglas-fir,0.103,,Upland Hardwood,0.067
+,Fir-Spruce,0.106,,Nonstocked,0.013
+,Hardwoods,0.027,SE,Bottomland Hardwood,0.064
+,Lodgepole Pine,0.093,,Misc. Conifer,0.081
+,Pinyon-Juniper,0.032,,Natural Pine,0.081
+,Ponderosa Pine,0.103,,Oak-Pine,0.063
+,Nonstocked,0.024,,Planted Pine,0.075
+,, ,,Upland Hardwood,0.059
+,,,,Nonstocked,0.012
+a Regions and types as defined in Smith et al. (2003).,,,,,
+b The ratio is multiplied by the live tree C density on a plot to produce downed dead wood C density (T C/ha).,,,,,

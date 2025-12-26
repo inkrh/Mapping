@@ -1,0 +1,84 @@
+Table A-134:  2014 Data and Calculated CH4 Potential Emissions (Mg) for the Natural Gas Production Stage,,,,,
+,2014 EPA Inventory Values,,,,
+Activity,National Activity Data,,National Emission Factor or Range of Regional Values (Potential)aa,,Calculated Potential  (Mg)bb
+Gas Wells,,,,, 
+Associated Gas Wells,"503,873","wellsa,1,cc",NAdd,,0
+Non-associated Gas Wells (less fractured wells),"205,363","wellsa,1",7.43-42.49,scfd/wellb,"17,754.50"
+Gas Wells with Hydraulic Fracturing,"250,777","wellsa,1",7.59-42.49,scfd/wellb,"35,085.10"
+Well Pad Equipment,,,,,
+Heaters,"99,038","heatersc,d,2",14.87-67.29,scfd/heaterb,"23,953.40"
+Separators,"306,377","separatorsc,d,2",0.94-142.27,scfd/separatorb,"118,591.20"
+Dehydrators,"17,126","dehydratorsc,d,2",23.18-106.25,scfd/dehydratorb,"8,417.50"
+Meters/Piping,"523,885","metersc,d,2",9.43-61.68,scfd/meterb,"107,173.20"
+Compressors,"48,518","compressorsc,d,2",263.85-312.19,scfd/compressorb,"96,170.60"
+Gathering and Boosting,,,,,
+Gathering and Boosting Stations*,"4,999","stationse,2","53,066",scfd CH4/statione,"1,864,870.30"
+Pipeline Leaks,"431,051","milesf,2",52.38-61.97,scfd/mileb,"169,701.40"
+"Drilling, Well Completion, and Well Workover",,,,,
+Gas Well Completions without Hydraulic Fracturing,767,completions/yearg,707.23-854.65,scf/completionb,11.3
+Gas Well Workovers without Hydraulic Fracturing,"8,933","workovers/yeara,2","2,367.7-2,861.3",scf/workoverb,445.8
+Hydraulic Fracturing Completions and Workovers that vent*,"1,791",completions and workovers/yearc,36.82,MT/(completion or workover)h,"65,940.70"
+Flared Hydraulic Fracturing Completions and Workovers*,548,completions and workovers/yearc,4.91,MT/(completion or workover)h,"2,690.60"
+Hydraulic Fracturing Completions and Workovers with RECs*,"1,043",completions and workovers/yearc,3.24,MT/(completion or workover)h,"3,379.60"
+Hydraulic Fracturing Completions and Workovers with RECs that flare*,"1,979",completions and workovers/yearc,4.88,MT/(completion or workover)h,"9,653.40"
+Well Drilling,"18,837","wellsi,1","2,505.9-2,965.0",scf/wellj,971.6
+Normal Operations,,,,,
+Pneumatic Device Vents*,"834,919","controllersc,d,2",176.74-209.12,"scfd/devicec,d","1,105,119.00"
+Pneumatic Device Vents - Low Bleed (LB),"226,280","controllersc,d,2",22.52-26.64,"scfd/devicec,d",Aggregated
+Pneumatic Device Vents - High Bleed (HB),"29,006","controllersc,d,2",612.66-724.91,"scfd/devicec,d",Aggregated
+Pneumatic Device Vents - Intermittent Bleed (IB),"579,633","controllersc,d,2",215.13-254.55,"scfd/devicec,d",Aggregated
+Chemical Injection Pumps*,"83,249","active pumpsc,d,2",208.89-252.30,"scfd/pumpc,d","128,876.50"
+Kimray Pumps,"5,012,753","MMscf/yrb,2","977.5-1,156.6",scf/MMscfb,"100,857.20"
+Dehydrator Vents,"5,625,985","MMscf/yrb,2",271.58-321.34,scf/MMscfb,"31,448.30"
+Condensate Tank Vents,,,,,
+Condensate Tanks without Control Devices,139,"MMbbl/yrk,1",21.87-302.75,"scf/bbll,","253,092.60"
+Condensate Tanks with Control Devices*,139,"MMbbl/yrk,1",4.37-60.55,scf/bbll,"50,618.50"
+Compressor Exhaust Vented,,,,,
+Gas Engines,"51,648","MMHPhrb,2",0.237-0.280,scf/HPhrb,"249,756.30"
+Well Clean Ups,,,,,
+Liquids Unloading with Plunger Lifts*,"22,477","venting wellsa,m,2","2,856-1,137,406","scfy/venting wellm,","112,568.80"
+Liquids Unloading without Plunger Lifts*,"37,912","venting wellsa,m,2","77,891-2,002,960","scfy/venting wellm,","148,075.10"
+Blowdowns,,,,,
+Vessel Blowdowns,"422,542","vesselsb,2",76.86-90.94,scfy/vesselb,668.5
+Pipeline Blowdowns,"431,051","miles (gathering)b,2",304.49-360.28,scfy/mileb,"2,702.90"
+Compressor Blowdowns,"48,518","compressorsb,2","3,719-4,400",scfy/compressorb,"3,713.80"
+Compressor Starts,"48,518","compressorsb,2","8,320-9,844",scfy/compressorb,"8,308.40"
+Upsets, , ,,,
+Pressure Relief Valves,"1,015,507","PRVb,2",33.50-39.64,scfy/PRVb,700.3
+Mishaps,"107,763","milesf,2",659.24-780.03,scf/mileb,"1,463.00"
+Produced Water from Coal Bed Methane Wells,,,,,
+Black Warrior,"5,480",wellso,0.0023,"kt/wello,1","12,790.50"
+Powder River,"20,596,530,150",gal produced watern,2.30E-09,"kt/gal water drainagen,1","47,627.30"
+Offshore Platforms,,,,,
+Shallow Water Gas Platforms (Gulf of Mexico and Pacific),"1,973","shallow water gas platformsp,3","8,899",scfd/platformq,"123,460.00"
+Deep Water Gas Platforms (Gulf of Mexico and Pacific),41,"deep water gas platformsp,3","93,836",scfd/platformq,"27,105.30"
+Regulatory Reductions (kt),,,,,-91.4
+Voluntary Reductions (kt),,,,,-483.2
+Total Reductions (kt),,,,,-574.6
+Total Potential Emissions (kt),,,,,"4,933.80"
+Total Net Emissions (kt),,,,,"4,359.20"
+*The values in this table are net emissions for these sources.,,,,,
+a DI Desktop (2015),,,,,
+"b EPA/GRI (1996), Methane Emissions from the Natural Gas Industry",,,,,
+c 2014 GHGRP – Subpart W data,,,,,
+d EPA (2016a),,,,,
+e EPA (2016b),,,,,
+"f ICF (1996), Estimation of Activity Factors for the Natural Gas Exploration and Production Industry in the U.S.",,,,,
+g API/ICF Memorandum (1997),,,,,
+h 2011-2014 GHGRP – Subpart W data,,,,,
+i EIA Monthly Energy Review,,,,,
+"j Radian (1992), Global Emissions of Methane Sources",,,,,
+"k EIA U.S. Crude Oil, Natural Gas, and Natural Gas Liquids Reserves Annual Report",,,,,
+l EP&P/API Tank Calc runs,,,,,
+"m API/ANGA (2012), Characterizing Pivotal Sources of Methane Emission from Natural Gas Production – Summary and Analysis of API and ANGA Survey ",,,,,
+n Wyoming Oil and Gas Conservation Commission (2015),,,,,
+o Alabama State Oil and Gas Board (2015) ,,,,,
+"p Bureau of Ocean Energy Management, Regulation and Enforcement (2011)",,,,,
+"q EPA (2015), Inventory of U.S. Greenhouse Gas Emissions and Sinks 1990-2013: Revision to Offshore Platform Emissions",,,,,
+bb Totals may not sum due to independent rounding.,,,,,
+"cc Emissions from oil wells that produce associated gas are estimated in the Petroleum Systems model. In the Natural Gas Systems model, the oil wells counts are used as a driver only.",,,,,
+"dd NA = not applicable (i.e., this data is not applicable for the Natural Gas Systems model).",,,,,
+1 Activity data for 2014 available from source.,,,,,
+2 Ratios relating other factors for which activity data are available.,,,,,
+3 2013 activity data are used to determine some or all of the 2014 activity.,,,,,
+*The values in this table are net emissions for these sources.  ,,,,,

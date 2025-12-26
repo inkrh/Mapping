@@ -1,0 +1,24 @@
+Table A-109:  Emission Factors for CH4 and N2O Emissions from Non-Road Mobile Combustion (g/kg fuel),,
+Vehicle Type/Fuel Type,N2O,CH4
+Ships and Boats,,
+Residual,0.16,0.03
+Gasoline,0.08,0.23
+Diesel,0.14,0.02
+Rail,,
+Diesel,0.08,0.25
+Agricultural Equipmenta,,
+Gasoline,0.08,0.45
+Diesel,0.08,0.45
+Construction/Mining Equipmentb,,
+Gasoline,0.08,0.18
+Diesel,0.08,0.18
+Other Non-Road,,
+All “Other” Categoriesc,0.08,0.18
+Aircraft,,
+Jet Fueld,0.1,0
+Aviation Gasoline,0.04,2.64
+Source: IPCC (2006) and ICF (2009).,,
+"a Includes equipment, such as tractors and combines, as well as fuel consumption from trucks that are used off-road in agriculture.",,
+"b Includes equipment, such as cranes, dumpers, and excavators, as well as fuel consumption from trucks that are used off-road in construction.",,
+"c “Other"" includes snowmobiles and other recreational equipment, logging equipment, lawn and garden equipment, railroad equipment, airport equipment, commercial equipment, and industrial equipment, as well as fuel consumption from trucks that are used off-road for commercial/industrial purposes.",,
+"d Emissions of CH4 from jet fuels have been zeroed out across the time series.  Recent research indicates that modern aircraft jet engines are typically net consumers of methane (Santoni et al. 2011).  Methane is emitted at low power and idle operation, but at higher power modes aircraft engines consumer methane.  Over the range of engine operating modes, aircraft engines are net consumers of methane on average.  Based on this data, methane emissions factors for jet aircraft were changed to zero in this year’s Inventory to reflect the latest emissions testing data.  ",,

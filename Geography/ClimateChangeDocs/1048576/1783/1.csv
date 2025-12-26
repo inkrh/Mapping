@@ -1,0 +1,77 @@
+Table A-137:  2014 Data and CH4 Emissions (Mg) for the Natural Gas Transmission Stage,,,,,
+,2014 EPA Inventory Values,,,,
+Activity,Activity Data,,Emission Factor (Potential)aa,,Calculated Potential Emissions (Mg)
+Fugitives, , ,,,
+Pipeline Leaks,"301,748",milesa,1.55, scfd/mileb ,"3,296.30"
+Compressor Stations (Transmission)*, , , , , 
+    Station Total Emissions,"1,834","stationsc,d,2","44,459"," scfd/stationc,d,bb ","573,179.20"
+    Station + Compressor Fugitive Emissions,"5,221","compressorsc,d,2","9,104"," scfd/stationc,d,bb ","117,370.90"
+    Reciprocating Compressor,"2,173","compressorsc,d,2","9,246"," scfd/compressorc,d,bb ","339,361.90"
+    Centrifugal Compressor (wet seals),869,"compressorsc,d,2","9,673"," scfd/compressorc,d,bb ","59,092.20"
+    Centrifugal Compressor (dry seals),"1,304","compressorsc,d,2","6,259"," scfd/compressorc,d,bb ","57,354.20"
+Compressor Stations (Storage)*, , , , , 
+    Station Total Emissions,356,"stationsc,d,2","52,604"," scfd/stationc,d,bb ","131,647.90"
+    Station + Compressor Fugitive Emissions,356,"stationsc,d,2","10,100"," scfd/stationc,d,bb ","25,276.00"
+    Reciprocating Compressor,"1,520","compressorsc,d,2","9,957"," scfd/compressorc,d,bb","106,371.90"
+Wells (Storage),"19,522","wellsb,2",114.5, scfd/wellb ,"15,714.00"
+M&R (Trans. Co. Interconnect),"2,686","stationse,2","3,984", scfd/stationb,"75,230.00"
+M&R (Farm Taps + Direct Sales),"79,646","stationse,2",31.2, scfd/stationb ,"17,468.90"
+Normal Operation, , , , , 
+    Dehydrator vents (Transmission),"1,169,007","MMscf/yrb,2",93.72, scf/MMscfb ,"2,110.10"
+    Dehydrator vents (Storage) ,"2,169,267","MMscf/yrb,2",117.18, scf/MMscfb,"4,895.80"
+    Compressor Exhaust, , , , , 
+        Engines (Transmission),"53,295","MMHPhrb,2",0.24, scf/HPhrb ,"246,351.20"
+        Turbines (Transmission),"12,717","MMHPhrb,2",0.01, scf/HPhrb ,"1,396.10"
+        Engines (Storage),"5,339","MMHPhrb,2",0.24, scf/HPhrb ,"24,677.00"
+        Turbines (Storage),"1,875","MMHPhrb,2",0.01, scf/HPhrb ,205.9
+        Generators (Engines),"2,608","MMHPhrb,2",0.24, scf/HPhrb ,"12,055.20"
+        Generators (Turbines),31,"MMHPhrb,2",0.01, scf/HPhrb ,3.4
+    Pneumatic Devices Trans + Stor*, , , , , 
+        Pneumatic Devices Transmission,"47,140","devicesc,d,2","30,611"," scfy/devicec,d,bb ","27,792.10"
+             (High Bleed),"4,129","devicesc,d,2","151,969"," scfy/devicec,d,bb ","12,085.20"
+             (Intermittent Bleed),"39,216","devicesc,d,2","19,712"," scfy/devicec,d,bb ","14,888.70"
+             (Low Bleed),"3,795","devicesc,d,2","11,196"," scfy/devicec,d,bb ",818.2
+        Pneumatic Devices Storage,"23,964","devicesc,d,2","63,622"," scfy/devicec,d,bb ","29,364.50"
+             (High Bleed),"8,379","devicesc,d,2","147,983"," scfy/devicec,d,bb ","23,882.00"
+             (Intermittent Bleed),"13,482","devicesc,d,2","19,333"," scfy/devicec,d,bb ","5,020.10"
+             (Low Bleed),"2,103","devicesc,d,2","11,414"," scfy/devicec,d,bb ",462.3
+Routine Maintenance/Upsets, , , , , 
+    Pipeline venting,"301,748","milesa,1",31.65, Mscfy/mileb ,"183,939.20"
+    Station venting Trans + Storage, , , , , 
+        Station Venting Transmission,"1,834","compressor stations c,d,2","4,359", Mscfy/stationb ,"153,965.50"
+        Station Venting Storage,356,"compressor stations c,d,2","4,359", Mscfy/stationb ,"29,887.70"
+ LNG Storage, , , , , 
+LNG Stations,70,"stationsf,g,3","21,507", scfd/stationb ,"10,622.80"
+LNG Reciprocating Compressors,270,"compressorsf,g,3","21,116", scfd/compressorb ,"40,146.50"
+LNG Centrifugal Compressors,64,"compressorsf,g,3","30,573", scfd/compressorb ,"13,766.00"
+LNG Compressor Exhaust, , , , , 
+    LNG Engines,579,"MMHPhrf,g,3",0.24, scf/HPhrb ,"2,677.70"
+    LNG Turbines,113,"MMHPhrf,g,3",0.01, scf/HPhrb,12.4
+LNG Station venting,70," stationsf,g,3","4,359", Mscfy/stationb ,"5,898.60"
+LNG Import Terminals , , , , , 
+LNG Stations,8,"stationsf,g,3","21,507", scfd/stationb ,"1,270.00"
+LNG Reciprocating Compressors,41,"compressorsf,g,3","21,116", scfd/compressorb ,"6,056.50"
+LNG Centrifugal Compressors,7,"compressorsf,g,3","30,573", scfd/compressorb ,"1,547.50"
+LNG Compressor Exhaust, , , , , 
+    LNG Engines,303,"MMHPhrf,g,3",0.24, scf/HPhrb ,"1,401.70"
+    LNG Turbines,60,"MMHPhrf,g,3",0.01, scf/HPhrb ,6.6
+LNG Station venting,8," stationsf,g,3","4,359", Mscfy/stationb ,705.2
+Regulatory Reductions (kt),,,,,-
+Voluntary Reductions (kt),,,,,-335
+Total Reductions (kt),,,,,-335
+Total Potential Emissions (kt),,,,,"1,617.30"
+Total Net Emissions (kt),,,,,"1,282.30"
+"a Pipeline and Hazardous Materials Safety Administration (PHMSA), Office of Pipeline Safety (OPS) (2014)",,,,,
+"b EPA/GRI (1996), Methane Emissions from the Natural Gas Industry",,,,,
+c EPA (2016c),,,,,
+d 2014 GHGRP – Subpart W data,,,,,
+"e ICF (2008), Natural Gas Model Activity Factor Basis Change",,,,,
+"f ICF (1996), Estimation of Activity Factors for the Natural Gas Exploration and Production Industry in the U.S.",,,,,
+"g EIA (2004), U.S. LNG Markets and Uses",,,,,
+1 Activity data for 2014 available from source.,,,,,
+2 Ratios relating other factors for which activity data are available.,,,,,
+3 2013 activity data are used to determine some or all of the 2014 activity (to be updated).,,,,,
+aa Emission factors listed in this table are for potential emissions (unless otherwise indicated in a footnote). See detailed explanation of methodology above.,,,,,
+bb Emission factors represent actual emissions and can be used to calculate emissions directly.,,,,,
+*The values in this table are net emissions for these sources.  ,,,,,
+,,,,,

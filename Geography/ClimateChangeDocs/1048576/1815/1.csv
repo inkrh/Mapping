@@ -1,0 +1,21 @@
+Table A-171:  Aerosol Product Transition Assumptions,,,,,,,,,,,
+Initial Market Segment,Primary Substitute,,,,,,Secondary Substitute,,,,Growth Rate
+,Name of  Substitute,Start Date,Date of Full Penetration in New Equipment,,,Maximum Market Penetration,Name of  Substitute,Start Date,Date of Full Penetration in New Equipment,Maximum Market Penetration,
+MDIs,,,,,,,,,,,
+CFC Mixa,HFC-134a,1997,1997,,6%,,None,,,,0.80%
+,Non-ODP/GWP,1998,2007,,7%,,None,,,,
+,CFC Mixa,2000,2000,,87%,,HFC-134a,2002,2002,34%,
+,,,,,,,HFC-134a,2003,2009,47%,
+,,,,,,,HFC-227ea,2006,2009,5%,
+,,,,,,,HFC-134a,2010,2011,6%,
+,,,,,,,HFC-227ea,2010,2011,1%,
+,,,,,,,HFC-134a,2011,2012,3%,
+,,,,,,,HFC-227ea,2011,2012,0.30%,
+,,,,,,,HFC-134a,2014,2014,3%,
+,,,,,,,HFC-227ea,2014,2014,0.30%,
+Consumer Aerosols (Non-MDIs),,,,,,,,,,,
+NAb ,HFC-152a,1990,1991,50%,,,None,,,,2.00%
+,HFC-134a,1995,1995,50%,,,HFC-152a,1997,1998,44%,
+,,,,,,,HFC-152a,2001,2005,36%,
+"a CFC Mix consists of CFC-11, CFC-12 and CFC-114 and represents the weighted average of several CFCs consumed for essential use in MDIs from 1993 to 2008.",,,,,,,,,,,
+"b Consumer Aerosols transitioned away from ODS prior to 1985, the year in which the Vintaging Model begins.  The portion of the market that is now using HFC propellants is modeled.",,,,,,,,,,,

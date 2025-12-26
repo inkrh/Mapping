@@ -1,0 +1,18 @@
+Table 7-13:  Variables Used to Calculate Percent Wastewater Treated Anaerobically by Industry (percent),,,,,,,,
+,,,,,,,,
+,Variable,Industry,,,,,,
+,,Pulp and Paper,Meat Processing,Poultry Processing,Fruit/ Vegetable Processing,Ethanol Production – Wet Mill,Ethanol Production – Dry Mill,Petroleum Refining
+,%TAp,0,0,0,0,0,0,0
+,%TAs,0,33,25,4.2,33.3,75,23.6
+,%TAa,2.2,0,0,0,0,0,0
+,"%TAa,t",11.8,0,0,0,0,0,0
+,%Plantso,0,100,100,11,100,100,100
+,%Plantsa,5,33,25,5.5,33.3,75,23.6
+,"%Plantsa,t",28,0,0,0,0,0,0
+,%Plantst,35,67,75,5.5,66.7,25,0
+,"%WWa,p",0,0,0,0,0,0,0
+,"%WWa,s",100,100,100,100,100,100,100
+,"%WWa,t",0,0,0,0,0,0,0
+,%CODp,100,100,100,100,100,100,100
+,%CODs,42,100,100,77,100,100,100
+,Sources: ERG (2008); ERG (2013a); and ERG (2013b).,,,,,,,

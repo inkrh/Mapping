@@ -1,0 +1,29 @@
+Table A-59:  Carbon Content Coefficients and Underlying Data for Petroleum Products,,,,
+Fuel,2007 Carbon Content,Gross Heat of Combustion,Density,Percent Carbon
+,(MMT C/QBtu),(MMBtu/Barrel),(API Gravity),
+Motor Gasoline,19.33,5.219,59.1,86.6
+LPG (total)a,16.99,(See b),(See b),(See b)
+LPG (energy use),17.18,(See b),(See b),(See b)
+LPG (non-energy use),16.76,(See b),(See b),(See b)
+Jet Fuel,19.33,5.67,42,86.3
+Distillate Fuel,19.95,5.825,35.5,86.34
+Residual Fuel,21.49,6.287,11,85.68
+Asphalt and Road Oil,20.62,6.636,5.6,83.47
+Lubricants,20.24,6.065,25.6,85.8
+Petrochemical Feedstocks,19.37,5.248c,67.1c,84.11c
+Aviation Gas,18.87,5.048,69,85
+Kerosene,19.72,5.67,41.4,86.01
+Petroleum Coke,27.85,6.024,-,92.28
+Special Naphtha,19.86,5.248,51.2,84.76
+Petroleum Waxes,19.81,5.537,43.3,85.29
+Still Gas,17.51,6,-,-
+Crude Oil,20.33,5.8,30.5,85.49
+Unfinished Oils,20.33,5.825,30.5,85.49
+Miscellaneous Products,20.33,5.796,30.5,85.49
+Pentanes Plus,18.24,4.62,81.7,83.7
+Natural Gasoline,18.24,4.62,81.7,83.7
+"a LPG is a blend of multiple paraffinic hydrocarbons: ethane, propane, isobutane, and normal butane, each with their own heat content, density and C content, see Table A-51. ",,,,
+"b Heat, density, and percent carbon values are provided separately for ethane, propane and isobutene. ",,,,
+c Parameters presented are for naphthas with a boiling temperature less than 400 degrees Fahrenheit.  Petrochemical feedstocks with higher boiling points are assumed to have the same characteristics as distillate fuel.,,,,
+Note: “-“ Indicates no sample data available.,,,,
+Sources: EIA (1994); EIA (2008a); SAIC (2007). ,,,,

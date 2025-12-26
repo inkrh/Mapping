@@ -1,0 +1,29 @@
+Table A-136:  2014 Data and CH4 Emissions (Mg) for the Natural Gas Processing Stage,,,,,
+,2014 EPA Inventory Values,,,,
+Activity,Activity Data,,Emission Factor (Potential)aa,,Calculated Potential Emissions (Mg)
+Normal Fugitives,,,,,
+Plants,668,"plantsa,1","7,906",scfd/plantb,"37,126.40"
+Reciprocating Compressors,"6,020","compressorsc,2","11,196",scfd/compressorb,"473,828.90"
+Centrifugal Compressors (wet seals),665,"compressorsd,2","51,370",scfd/compressord,"240,031.00"
+Centrifugal Compressors (dry seals),306,"compressorsd,2","25,189",scfd/compressord,"54,117.20"
+Vented and Combusted,,,,,
+Gas Engines,"43,251","MMHPhrc,2",0.24,scf/HPhrb,"199,922.80"
+Gas Turbines,"51,283","MMHPhrc,2",0.01,scf/HPhrb,"5,630.00"
+AGR Vents,339,"AGRunitsb,2","6,083",scfd/AGRb,"14,477.90"
+Kimray Pumps,"1,566,830","MMscf/yrc,2",177.75,scf/MMscfb,"5,364.00"
+Dehydrator Vents,"14,115,586","MMscf/yrc,2",121.55,scf/MMscfb,"33,045.30"
+Pneumatic Controllers,668,"gasplantsa,1","164,721",scfy/plantb,"2,119.20"
+Routine Maintenance,,,,,
+Blowdowns/Venting,668,"gasplantsa,1","4,060",Mscfy/plantb,"52,234.70"
+Regulatory Reductions (kt),,,,,-17.5
+Voluntary Reductions (kt),,,,,-140.8
+Total Reductions (kt),,,,,-158.3
+Total Potential Emissions (kt),,,,,"1,117.90"
+Total Net Emissions (kt),,,,,959.6
+a Oil and Gas Journal,,,,,
+"b EPA/GRI (1996), Methane Emissions from the Natural Gas Industry",,,,,
+"c ICF (2008), Natural Gas Model Activity Factor Basis Change",,,,,
+"d ICF (2010), Emissions from Centrifugal Compressors",,,,,
+aa Emission factors listed in this table are for potential emissions (unless otherwise indicated in a footnote). See detailed explanation of methodology above.,,,,,
+1 Activity data for 2014 available from source.,,,,,
+2 Ratios relating other factors for which activity data are available.,,,,,

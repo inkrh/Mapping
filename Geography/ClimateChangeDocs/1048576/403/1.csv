@@ -1,0 +1,30 @@
+Table A-128:  2014 CH4 Emissions from Petroleum Transportation,,,,,,
+Activity/Equipment,Emission Factor,Units,Activity Factor,Units,Emissions (Bcf/yr),Emissions (kt/yr)
+Vented Emissions,,,,,0.37,7.1
+Tanks,0.021,scf CH4/yr/bbl of crude delivered to refineriesa,"5,785","MMbbl crude feed/yrb,2",0.119,2.3
+Truck Loading   ,0.52,scf CH4/yr/bbl of crude transported by truckc,152,"MMbbl crude trans. By truckd,2",0.079,1.5
+Marine Loading,2.544,scf CH4/1000 gal crude marine loadingsc,"33,954,617","1,000 gal/yr loadede,1,4",0.086,1.7
+Rail Loading,0.52,scf CH4/yr/bbl of crude transported by railc,133,"MMbbl Crude by rail/yrd,2",0.069,1.3
+Pump Station Maintenance,36.8,scf CH4/station/yrf,564,"No. of pump stationsg,1",0.000*,0.0*
+Pipeline Pigging,39,scfd of CH4/pig stationh,"1,128","No. of pig stationsg,1",0.016,0.3
+Fugitive Emissions,,,,,0.05,1
+Pump Stations,25,scf CH4/mile/yrf,"56,375","No. of miles of crude p/lg,2",0.001,0.0*
+Pipelines,NE,scf CH4/bbl crude transported by pipelinef,"9,289","MMbbl crude pipedg,2",NE,NE
+Floating Roof Tanks,"58,965",scf CH4/floating roof tank/yri,824,No. of floating roof tanks3,0.049,0.9
+Combustion Emissions,,,,,NE,NE
+Pump Engine Drivers,0.24,scf CH4/hp-hrj,NE,No. of hp-hrs,NE,NE
+Heaters,0.521,scf CH4/bbl burnedk,NE,No. of bbl Burned,NE,NE
+Total ,,,,,0.42,8.1
+"* Emissions are not actually 0, but too small to show at this level of precision.",,,,,,
+ NE - Not estimated for lack of data,,,,,,
+a API (1992),,,,,,
+"b Energy Information Administration (EIA) Petroleum Supply Annual, Volume 1.",,,,,,
+"c EPA, AP 42 Compilation of Air Pollutant Emission Factors",,,,,,
+d EIA Refinery Capacity Report,,,,,,
+e EIA Monthly Energy Review,,,,,,
+f Radian (1996),,,,,,
+g OGJ Petroleum Economics Issue,,,,,,
+h CAPP (1992),,,,,,
+i API TANK,,,,,,
+j GRI / EPA (1996),,,,,,
+k EPA / ICF International (1999),,,,,,

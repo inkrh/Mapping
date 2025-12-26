@@ -1,0 +1,11 @@
+Mean Temperature (Unit: ºC)
+
+PT100-hm19712000-m12-avgr-taavgr-en-en
+Period 1971-2000, Mainland
+Climate normal: Modeled historical - 1971-2000, Statistic: 30 years average, Global Model: Ensemble, Regional model: Ensemble
+
+PT100-hm19712000-aaa-avgr-taavgr-en-en
+Annual Evolution 1971-2000, Mainland
+Climate normal: Modeled historical - 1971-2000, Temporal mean: Annual, Statistic: 30 years average, Regional model: Ensemble, Global Model: Ensemble
+
+(Contact: webmaster@ipma.pt)

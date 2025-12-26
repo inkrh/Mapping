@@ -1,0 +1,21 @@
+Table A-108:  Emission Factors for CH4 and N2O for Alternative Fuel Vehicles (g/mi) ,,
+,N2O,CH4
+Light Duty Vehicles,,
+  Methanol,0.067,0.018
+  CNG,0.05,0.737
+  LPG,0.067,0.037
+  Ethanol,0.067,0.055
+  Biodiesel (BD20),0.001,0.0005
+Medium- and Heavy-Duty Trucks,,
+  Methanol,0.175,0.066
+  CNG,0.175,1.966
+  LNG,0.175,1.966
+  LPG,0.175,0.066
+  Ethanol,0.175,0.197
+  Biodiesel (BD20),0.005,0.005
+Buses,,
+  Methanol,0.175,0.066
+  CNG,0.175,1.966
+  Ethanol,0.175,0.197
+  Biodiesel (BD20),0.005,0.005
+Source: Developed by ICF (2006a) using ANL (2006) and Lipman and Delucchi (2002).,,

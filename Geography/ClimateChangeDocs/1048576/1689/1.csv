@@ -1,0 +1,45 @@
+Table A-38:  Key Assumptions for Estimating CO2 Emissions,
+,C Content Coefficient 
+Fuel Type,(MMT C/QBtu)
+Coal,
+Residential Coal,[c]
+Commercial Coal,[c]
+Industrial Coking Coal,[c]
+Industrial Other Coal,[c]
+Electric Power Coal,[c]
+U.S. Territory Coal (bit),25.14
+Pipeline Natural Gas,
+Flare Gasa,14.92
+Petroleum,
+Asphalt & Road Oil,20.55
+Aviation Gasoline,18.86
+Distillate Fuel Oil No. 1,19.98
+Distillate Fuel Oil No. 2b,20.17
+Distillate Fuel Oil No. 4,20.47
+Jet Fuel,[c]
+Kerosene,19.96
+LPG (energy use),[c]
+LPG (non-energy use),[c]
+Lubricants,20.2
+Motor Gasoline,[c]
+Residual Fuel Oil No. 5,19.89
+Residual Fuel Oil No. 6b,20.48
+Other Petroleum,
+AvGas Blend Components,18.87
+Crude Oil,[c]
+MoGas Blend Components,[c]
+Misc. Products,[c]
+Misc. Products (Territories),20
+Naphtha (<401 deg. F),18.55
+Other Oil (>401 deg. F),20.17
+Pentanes Plus,19.1
+Petroleum Coke,27.85
+Still Gas,18.2
+Special Naphtha,19.74
+Unfinished Oils,[c]
+Waxes,19.8
+Geothermal,2.05
+a Flare gas is not used in the CO2 from fossil fuel combustion calculations and is presented for informational purposes only.,
+"b Distillate fuel oil No.2 and residual fuel oil No. 6 are used in the CO2 from fossil fuel combustion calculations, and other oil types are presented for informational purposes only. An additional discussion on the derivation of these carbon content coefficients is presented in Annex 2.2.",
+Sources: C coefficients from EIA (2009b) and EPA (2010a). ,
+[c] These coefficients vary annually due to fluctuations in fuel quality (see Table A-39).,

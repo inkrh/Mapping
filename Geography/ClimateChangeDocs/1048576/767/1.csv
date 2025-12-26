@@ -1,0 +1,65 @@
+Table 1-4:  Key Categories for the United States (1990-2014),,,,,,,,,,,
+IPCC Source Categories,Gas,Approach 1,,,,Approach 2,,,,Quala,2014 Emissions (MMT CO2 Eq.)
+,,Level Without LULUCF,Trend Without LULUCF,Level With LULUCF,Trend With LULUCF,Level Without LULUCF,Trend Without LULUCF,Level With LULUCF,Trend With LULUCF,,
+Energy,,,,,,,,,,,
+CO2 Emissions from Stationary Combustion - Coal - Electricity Generation,CO2,•,•,•,•,•,•,•,•,,"1,570.40"
+CO2 Emissions from Mobile Combustion: Road,CO2,•,•,•,•,•,•,•,•,,"1,467.50"
+CO2 Emissions from Stationary Combustion - Gas - Industrial,CO2,•,•,•,•,•,,•,,,466
+CO2 Emissions from Stationary Combustion - Gas - Electricity Generation,CO2,•,•,•,•,•,•,•,•,,443.2
+CO2 Emissions from Stationary Combustion - Gas - Residential,CO2,•,•,•,•,•,,•,,,277.6
+CO2 Emissions from Stationary Combustion - Oil - Industrial,CO2,•,•,•,•,•,•,•,•,,271.9
+CO2 Emissions from Stationary Combustion - Gas - Commercial,CO2,•,•,•,•,•,•,•,,,189.2
+CO2 Emissions from Mobile Combustion: Aviation,CO2,•,•,•,•,•,•,•,,,150.1
+CO2 Emissions from Non-Energy Use of Fuels,CO2,•,•,•,•,•,•,•,•,,114.3
+CO2 Emissions from Mobile Combustion: Other,CO2,•,•,•,•,,,,,,92
+CO2 Emissions from Stationary Combustion - Coal - Industrial,CO2,•,•,•,•,•,•,•,•,,75.3
+CO2 Emissions from Stationary Combustion - Oil - Residential,CO2,•,•,•,•,,,,,,67.5
+CO2 Emissions from Natural Gas Systems,CO2,•,,•,,•,,•,,,42.4
+CO2 Emissions from Stationary Combustion - Oil - Commercial,CO2,•,•,•,•,,,,,,38.2
+CO2 Emissions from Stationary Combustion - Oil - U.S. Territories,CO2,•,,•,•,,,,,,34.6
+CO2 Emissions from Mobile Combustion: Marine,CO2,•,•,•,•,,,,,,28
+CO2 Emissions from Stationary Combustion - Oil - Electricity Generation,CO2,•,•,•,•,,•,,•,,25.3
+CO2 Emissions from Stationary Combustion - Coal - Commercial,CO2,,•,,•,,,,,,4.5
+CO2 Emissions from Stationary Combustion - Gas - U.S. Territories,CO2,,,,,,•,,,,3
+CO2 Emissions from Stationary Combustion - Coal - Residential,CO2,,,,,,•,,,,0
+CH4 Emissions from Natural Gas Systems,CH4,•,•,•,•,•,•,•,•,,176.1
+CH4 Emissions from Petroleum Systems,CH4,•,•,•,•,•,•,•,•,,68.1
+Fugitive Emissions from Coal Mining,CH4,•,•,•,•,•,•,•,•,,67.6
+Non-CO2 Emissions from Stationary Combustion - Residential,CH4,,,,,•,,•,,,5
+Non-CO2 Emissions from Stationary Combustion - Electricity Generation,N2O,,•,,•,•,•,•,•,,19.6
+N2O Emissions from Mobile Combustion: Road,N2O,•,•,•,•,•,•,,•,,12.5
+International Bunker Fuelsb,Several,,,,,,,,,•,104.2
+Industrial Processes and Product Use,,,,,,,,,,,
+CO2 Emissions from Iron and Steel Production & Metallurgical Coke Production,CO2,•,•,•,•,•,•,•,•,,55.4
+CO2 Emissions from Cement Production,CO2,•,,•,,,,,,,38.8
+CO2 Emissions from Other Process Uses of Carbonates,CO2,,•,,•,,,,,,12.1
+N2O Emissions from Adipic Acid Production,N2O,,•,,•,,,,,,5.4
+Emissions from Substitutes for Ozone Depleting Substances,HiGWP,•,•,•,•,•,•,•,•,,161.2
+SF6 Emissions from Electrical Transmission and Distribution,HiGWP,,•,,•,,•,,•,,5.6
+HFC-23 Emissions from HCFC-22 Production,HiGWP,•,•,•,•,,•,,,,5
+PFC Emissions from Aluminum Production,HiGWP,,•,,•,,,,,,2.5
+Agriculture,,,,,,,,,,,
+CH4 Emissions from Enteric Fermentation,CH4,•,•,•,•,•,•,•,,,164.3
+CH4 Emissions from Manure Management,CH4,•,•,•,•,•,•,•,,,61.2
+Direct N2O Emissions from Agricultural Soil Management,N2O,•,,•,,•,,•,,,261
+Indirect N2O Emissions from Applied Nitrogen,N2O,•,,•,,•,•,•,•,,57.3
+Waste,,,,,,,,,,,
+CH4 Emissions from Landfills,CH4,•,•,•,•,•,•,•,•,,148
+"Land Use, Land-Use Change, and Forestry",,,,,,,,,,,
+CO2 Emissions from Land Converted to Grassland,CO2,,,•,,,,,,,40.4
+CO2 Emissions from Land Converted to Cropland,CO2,,,•,•,,,•,•,,22.1
+CO2 Emissions from Grassland Remaining Grassland,CO2,,,,•,,,•,•,,3.8
+CO2 Emissions from Cropland Remaining Cropland,CO2,,,•,•,,,•,•,,-8.4
+CO2 Emissions from Landfilled Yard Trimmings and Food Scraps,CO2,,,,•,,,•,•,,-11.6
+CO2 Emissions from Urban Trees,CO2,,,•,•,,,•,•,,-90.6
+CO2 Emissions from Forest Land Remaining Forest Land,CO2,,,•,•,,,•,•,,-742.3
+CH4 Emissions from Forest Fires,CH4,,,,,,,•,•,,7.3
+Subtotal Without LULUCF,,,,,,,,,,,"6,687.80"
+Total Emissions Without LULUCF,,,,,,,,,,,"6,870.50"
+Percent of Total Without LULUCF,,,,,,,,,,,97%
+Subtotal With LULUCF,,,,,,,,,,,"5,905.50"
+Total Emissions With LULUCF,,,,,,,,,,,"6,108.00"
+Percent of Total With LULUCF,,,,,,,,,,,97%
+a Qualitative criteria.,,,,,,,,,,,
+b Emissions from this source not included in totals.,,,,,,,,,,,
+Note: Parentheses indicate negative values (or sequestration).,,,,,,,,,,,

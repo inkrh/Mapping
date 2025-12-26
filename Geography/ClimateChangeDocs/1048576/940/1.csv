@@ -1,0 +1,9 @@
+"Table 4-93:  Approach 2 Quantitative Uncertainty Estimates for HFC, PFC, SF6, NF3 and N2O Emissions from Semiconductor Manufacture (MMT CO2 Eq. and Percent)",,,,,,,
+,,,,,,,
+,Source,Gas,2014 Emission Estimate,Uncertainty Range Relative to Emission Estimatea,,,
+,,,(MMT CO2 Eq.),(MMT CO2 Eq.),,(%),
+,,,,Lower,Upper,Lower,Upper
+,,,,Boundb,Boundb,Bound,Bound
+,Semiconductor Manufacture,"HFC, PFC, SF6, NF3, and N2O",4.7,4.5,5,-6%,6%
+,a Range of emission estimates predicted by Monte Carlo Stochastic Simulation for a 95 percent confidence interval.,,,,,,
+,b Absolute lower and upper bounds were calculated using the corresponding lower and upper bounds in percentages.,,,,,,

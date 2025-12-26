@@ -1,0 +1,12 @@
+Table 3-23:  Approach 2 Quantitative Uncertainty Estimates for Storage Factors of Non-Energy Uses of Fossil Fuels (Percent),,,,,,,
+,,,,,,,
+,Source,Gas,2014 Storage Factor,Uncertainty Range Relative to Emission Estimatea,,,
+,,,(%),(%),,"(%, Relative)",
+,,,,Lower ,Upper ,Lower ,Upper 
+,,,,Bound,Bound,Bound,Bound
+,Feedstocks,CO2,65%,52%,72%,-20%,10%
+,Asphalt,CO2,99.60%,99.10%,99.80%,-0.50%,0.25%
+,Lubricants,CO2,9%,4%,17%,-57%,88%
+,Waxes,CO2,58%,49%,70%,-15%,22%
+,Other,CO2,4%,4%,24%,-3%,479%
+,"a Range of emission estimates predicted by Monte Carlo Stochastic Simulation for a 95 percent confidence interval, as a percentage of the inventory value (also expressed in percent terms).",,,,,,

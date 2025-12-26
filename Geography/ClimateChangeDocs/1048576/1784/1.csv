@@ -1,0 +1,46 @@
+Table A-138:  2014 Data and CH4 Emissions (Mg) for the Natural Gas Distribution Stage,,,,,
+,2014 EPA Inventory Values,,,,
+Activity,Activity Data,,Emission Factor (Potential)aa,,Calculated Potential Emissions (Mg)
+Pipeline Leaks*,,,,,
+Mains—Cast Iron,"29,359","milesa,1",60.09,"Mscf/mile-yrc,bb","33,976.20"
+Mains—Unprotected steel,"58,520","milesa,1",44.72,"Mscf/mile-yrc,bb","50,404.70"
+Mains—Protected steel,"486,432","milesa,1",5.02,"Mscf/mile-yrc,bb","47,061.80"
+Mains—Plastic,"690,029","milesa,1",1.5,"Mscf/mile-yrc,bb","19,905.50"
+Services—Unprotected steel,"3,432,641","servicesa,1",0.75,"Mscf/servicec,bb","49,727.50"
+Services Protected steel,"14,588,827","servicesa,1",0.07,"Mscf/servicec,bb","18,896.30"
+Services—Plastic,"46,755,197","servicesa,1",0.01,"Mscf/servicec,bb","12,296.30"
+Services—Copper,"935,595","servicesa,1",0.25,Mscf/serviceb,"4,582.80"
+Meter/Regulator (City Gates)*,,,,,
+M&R >300,"3,952","stationsc,d,2",12.7,"scfh/stationc,d,bb","8,468.20"
+M&R 100-300,"14,423","stationsc,d,2",5.9,"scfh/stationc,d,bb","14,356.70"
+M&R <100,"7,709","stationsc,d,2",4.31,scfh/stationb,"5,605.70"
+Reg >300,"4,321","stationsc,d,2",5.15,"scfh/stationc,d,bb","3,754.40"
+R-Vault >300,"1,501","stationsc,d,2",0.3,"scfh/stationc,d,bb",76
+Reg 100-300,"13,071","stationsc,d,2",0.85,"scfh/stationc,d,bb","1,874.60"
+R-Vault 100-300,"3,473","stationsc,d,2",0.3,"scfh/stationc,d,bb",175.8
+Reg 40-100,"39,225","stationsc,d,2",0.97,"scfh/stationc,d,bb","6,419.50"
+R-Vault 40-100,"20,573","stationsc,d,2",0.3,"scfh/stationc,d,bb","1,041.30"
+Reg <40,"16,633","stationsc,d,2",0.13,scfh/stationb,373.2
+Customer Meters,,,,,
+Residential,"53,339,363",Outdoor meterse,77.31,"scfy/meterb,c","79,424.10"
+Commercial/Industry,"5,611,121",meterse,505.4,"scfy/meterb,c","54,619.10"
+Routine Maintenance,,,,,
+Pressure Relief Valve Releases,"1,264,340","milemaina,1",0.05,Mscf/mileb,"1,217.60"
+Pipeline Blowdown,"2,168,588","milesb,2",0.1,Mscfy/mileb,"4,260.20"
+Upsets,,,,,
+Mishaps (Dig-ins),"2,168,588","milesb,2",1.59,Mscfy/mileb,"66,409.50"
+Regulatory Reductions (kt),,,,,-
+Voluntary Reductions (kt),,,,,-40.8
+Total Reductions (kt),,,,,-40.8
+Total Potential Emissions (kt),,,,,484.9
+Total Net Emissions (kt),,,,,444.1
+"a Pipeline and Hazardous Materials Safety Administration (PHMSA), Office of Pipeline Safety (OPS) (2013)",,,,,
+"b EPA/GRI (1996), Methane Emissions from the Natural Gas Industry",,,,,
+c EPA (2016d),,,,,
+d 2014 GHGRP – Subpart W data,,,,,
+"f EIA (2015d, 2015e, 2015f) – Number of Consumers (Residential, Commercial, and Industrial)",,,,,
+aa Emission factors listed in this table are for potential emissions (unless otherwise indicated in a footnote). See detailed explanation of methodology above.,,,,,
+bb Emission factors represent actual emissions and can be used to calculate emissions directly.,,,,,
+1 Activity data for 2014 available from source.,,,,,
+2 Ratios relating other factors for which activity data are available.,,,,,
+*The values in this table are net emissions for these sources,,,,,

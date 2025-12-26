@@ -1,0 +1,23 @@
+Table A-302: Quantitative Uncertainty Assessment of Overall National Inventory Emissions (MMT CO2 Eq. and Percent),,,,,,,
+,2014 Emission Estimatea,Uncertainty Range Relative to Emission Estimateb,,,,Meanc,Standard Deviationc
+Gas,(MMT CO2 Eq.),(MMT CO2 Eq.),,(%),,(MMT CO2 Eq.),
+,,Lower Boundd,Upper Boundd,Lower  Bound,Upper  Bound,,
+  CO2,5555.6,5459.4,5830.0,-2%,5%,5643.8,94.9
+  CH4e,730.8,674.3,917.5,-8%,26%,785.0,60.2
+  N2Oe,403.5,322.5,447.9,-20%,11%,378.6,32.2
+"  PFC, HFC, SF6, and NF3e",175.3,172.3,190.9,-4%,6%,181.6,4.7
+Total Emissions,6865.2,6765.4,7223.9,-2%,5%,6989.0,117.5
+  LULUCF Emissionsf,24.6,12.8,38.9,-48%,58%,23.0,6.8
+  LULUCF Total Net Fluxg,-787.0,-1051.4,-647.8,-18%,34%,-847.2,102.9
+  LULUCF Sector Totalh,-762.5,-1029.8,-622.5,-18%,35%,-824.2,103.0
+Net Emissions (Sources and Sinks),6102.7,5861.6,6477.6,-4%,6%,6164.8,156.7
+Notes: Total emissions (excluding emissions for which uncertainty was not quantified) is presented without LULUCF. Net emissions is presented with LULUCF,,,,,,,
+"a Emission estimates reported in this table correspond to emissions from only those source categories for which quantitative uncertainty was performed this year. Thus the totals reported in this table exclude approximately 5.3 MMT CO2 Eq. of emissions for which quantitative uncertainty was not assessed.  Hence, these emission estimates do not match the final total U.S. greenhouse gas emission estimates presented in this Inventory.  ",,,,,,,
+"b The lower and upper bounds for emission estimates correspond to a 95 percent confidence interval, with the lower bound corresponding to 2.5th percentile and the upper bound corresponding to 97.5th percentile.",,,,,,,
+c Mean value indicates the arithmetic average of the simulated emission estimates; standard deviation indicates the extent of deviation of the simulated values from the mean.,,,,,,,
+d The lower and upper bound emission estimates for the sub-source categories do not sum to total emissions because the low and high estimates for total emissions were calculated separately through simulations.,,,,,,,
+"e The overall uncertainty estimates did not take into account the uncertainty in the GWP values for CH4, N2O and high GWP gases used in the inventory emission calculations for 2014.",,,,,,,
+"f LULUCF emissions include the CO2, CH4, and N2O emissions reported for Non-CO2 Emissions from Forest Fires, N2O Fluxes from Forest Soils, CO2 Emissions from Agricultural Liming, CO2 Emissions from Urea Fertilization, Peatlands Remaining Peatlands, and N2O Fluxes from Settlement Soils.",,,,,,,
+"g Net CO2 flux is the net C stock change from the following categories: Forest Land Remaining Forest Land, Land Converted to Forest Land, Cropland Remaining Cropland, Land Converted to Cropland, Grassland Remaining Grassland, Land Converted to Grassland, Settlements Remaining Settlements, and Other. ",,,,,,,
+"h The LULUCF Sector Total is the net sum of all emissions (i.e., sources) of greenhouse gases to the atmosphere plus removals of CO2 (i.e., sinks or negative emissions) from the atmosphere.",,,,,,,
+Notes: Totals may not sum due to independent rounding. Parentheses indicate net sequestration,,,,,,,

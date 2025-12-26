@@ -1,0 +1,19 @@
+Table A-175: Emission Profile for the Foam End-Uses,,,,,
+Foam End-Use,Loss at Manufacturing (%),Annual Leakage Rate (%),Leakage Lifetime (years),Loss at Disposal (%),Totala (%)
+"Flexible PU Foam: Slabstock Foam, Moulded Foam",100,0,1,0,100
+Commercial Refrigeration,6,0.25,15,90.25,100
+Rigid PU: Spray Foam,15,1.5,56,1,100
+Rigid PU: Slabstock and Other,37.5,0.75,15,51.25,100
+Phenolic Foam,23,0.875,32,49,100
+Polyolefin Foam,95,2.5,2,0,100
+Rigid PU: One Component Foam,100,0,1,0,100
+XPS: Sheet Foama,40,2,25,0,90
+XPS: Boardstock Foam ,25,0.75,50,37.5,100
+Flexible PU Foam: Integral Skin Foam,95,2.5,2,0,100
+Rigid PU: Domestic Refrigerator and Freezer Insulationa,4,0.25,14,40,47.5
+PU and PIR Rigid: Boardstock,6,1,50,44,100
+PU Sandwich Panels: Continuous and Discontinuous,5.5,0.5,50,69.5,100
+PIR (Polyisocyanurate),,,,,
+PU (Polyurethane),,,,,
+XPS (Extruded Polystyrene),,,,,
+"a In general, total emissions from foam end-uses are assumed to be 100 percent, although work is underway to investigate that assumption.  In the XPS Sheet/Insulation Board end-use, the source of emission rates and lifetimes did not yield 100 percent emission; it is unclear at this time whether that was intentional.  In the Rigid PU Appliance Foam end-use, the source of emission rates and lifetimes did not yield 100 percent emission; the remainder is anticipated to be emitted at a rate of 2.0%/year post-disposal for the next 26 years.",,,,,
