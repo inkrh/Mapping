@@ -1,17 +1,23 @@
 # Mapping
 
-Mapping and Related Data Samples
+Mapping and Related Data Samples. Kinda old now, but keeping live especially for the climate change docs.
 
-*Interesting*
+## Interesting
 
-interesting scraped data from a limited set of news sources for environment related keywords. Regularly updated. Date range 02/17 to date. NB - No context verification of keywords, and a security news equivalent.
+Interesting scraped data from a limited set of news sources for environment and security related keywords. Regularly updated. Fetched on a daily basis from 2017 to 2024. 
 
 
-*Geography*
+## Climate Change Docs
 
-*Climate Change Docs*
+Documents (PDFs, PPTs and reports in csv format etc.) on climate change that were publicly available between 2017 and 2020, includes documents initially commissioned and released by the US government and now expunged from US federal and state government websites due to politicization of science, provided to FloodedCity via an old SeedDMS instance.
 
-Documents (PDFs and reports via csv etc.) on climate change that were publicly available between 2017 and 2020, includes some documents currently expunged from US federal and state government websites, provided to FloodedCity via an old SeedDMS instance.
+
+Also see https://www.flooded.city.
+
+
+
+## Geography
+
 
 *Calculate Prices*
 
