@@ -4,7 +4,7 @@ Mapping and Related Data Samples. Kinda old now, but keeping live especially for
 
 ## Interesting
 
-Interesting scraped data from a limited set of news sources for environment and security related keywords. Regularly updated. Fetched on a daily basis from 2017 to 2024. 
+Interesting scraped data from a limited set of news sources for environment and security related keywords. No longer updated. Fetch script ran on a daily basis from 2017 to 2024. 
 
 
 ## Climate Change Docs
