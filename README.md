@@ -25,7 +25,7 @@ Sample server providing a service price calculator based on ZIP code with a base
 
 *FloodedCitySamples*
 
-Sample scripts and scraped data for the Sea Levels application (http://www.flooded.city), includes regularly updated historical data for FEMA and NASA events.
+Sample scripts and scraped data for the Sea Levels application (http://www.flooded.city), includes historical data for FEMA and NASA events.
 
 *LocationReporter*
 
