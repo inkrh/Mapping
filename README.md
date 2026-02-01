@@ -1,6 +1,6 @@
-# Mapping
+# Interesting Data
 
-Mapping and Related Data Samples. Kinda old now, but keeping live especially for the climate change docs.
+Mapping and interesting data samples. Kinda old now, but keeping live especially for the climate change docs.
 
 ## Interesting
 
