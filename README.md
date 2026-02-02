@@ -2,6 +2,10 @@
 
 Mapping and interesting data samples. Kinda old now, but keeping live especially for the climate change docs.
 
+Uses git lfs.
+
+Warning - due to the data size and number of files, this repo may take some time to clone. One day I'll separate things out to their own smaller repos. Not today though.
+
 ## Interesting
 
 Interesting scraped data from a limited set of news sources for environment and security related keywords. No longer updated. Fetch script ran on a daily basis from 2017 to 2024. 
